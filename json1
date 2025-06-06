@@ -1,0 +1,183 @@
+[
+  {
+    "D": 1,
+    "Disease": "Hypertension",
+    "Symptoms": ["Headache", "Dizziness", "Blurred vision", "Nosebleeds", "Fatigue"],
+    "Treatment": "Lifestyle modifications, antihypertensive medications",
+    "Drugs": [
+      { "Name": "Norvasc", "Description": "Calcium channel blocker used to treat high blood pressure." },
+      { "Name": "Co-Diovan", "Description": "Combination medication for blood pressure control." },
+      { "Name": "Beloc ZOK", "Description": "Beta-blocker for managing hypertension." }
+    ],
+    "Specialty": "Cardiology"
+  },
+  {
+    "D": 2,
+    "Disease": "Type 2 Diabetes Mellitus",
+    "Symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Blurred vision", "Slow-healing sores"],
+    "Treatment": "Dietary management, exercise, oral hypoglycemics, insulin therapy",
+    "Drugs": [
+      { "Name": "Glucophage", "Description": "Helps control blood sugar levels." },
+      { "Name": "Januvia", "Description": "Assists in regulating insulin levels." },
+      { "Name": "Lantus", "Description": "Long-acting insulin for blood sugar control." }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 3,
+    "Disease": "Ischemic Heart Disease",
+    "Symptoms": ["Chest pain", "Shortness of breath", "Fatigue", "Palpitations", "Nausea"],
+    "Treatment": "Lifestyle changes, medications, surgical interventions",
+    "Drugs": [
+      { "Name": "Plavix", "Description": "Prevents blood clots in coronary arteries." },
+      { "Name": "Lipitor", "Description": "Lowers cholesterol levels." },
+      { "Name": "Concor", "Description": "Beta-blocker for heart rate control." }
+    ],
+    "Specialty": "Cardiology"
+  },
+  {
+    "D": 4,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Symptoms": ["Chronic cough", "Shortness of breath", "Wheezing", "Chest tightness", "Frequent respiratory infections"],
+    "Treatment": "Smoking cessation, bronchodilators, pulmonary rehabilitation",
+    "Drugs": [
+      { "Name": "Spiriva", "Description": "Long-acting bronchodilator for easier breathing." },
+      { "Name": "Symbicort", "Description": "Combination inhaler for inflammation and airflow." },
+      { "Name": "Ventolin", "Description": "Quick-relief inhaler for acute symptoms." }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 5,
+    "Disease": "Breast Cancer",
+    "Symptoms": ["Lump in the breast", "Change in breast shape", "Dimpling of the skin", "Nipple discharge", "Redness or flaky skin"],
+    "Treatment": "Surgery, chemotherapy, radiation therapy, hormonal therapy",
+    "Drugs": [
+      { "Name": "Herceptin", "Description": "Targets specific breast cancer cells." },
+      { "Name": "Avastin", "Description": "Inhibits blood vessel growth in tumors." },
+      { "Name": "Taxol", "Description": "Chemotherapy agent for various cancers." }
+    ],
+    "Specialty": "Oncology"
+  },
+  {
+    "D": 6,
+    "Disease": "Gastroesophageal Reflux Disease (GERD)",
+    "Symptoms": ["Heartburn", "Regurgitation", "Difficulty swallowing", "Chest pain", "Chronic cough"],
+    "Treatment": "Dietary changes, antacids, proton pump inhibitors",
+    "Drugs": [
+      { "Name": "Nexium", "Description": "Reduces stomach acid production." },
+      { "Name": "Gaviscon", "Description": "Neutralizes stomach acid and forms a protective barrier." },
+      { "Name": "Losec", "Description": "Decreases acid secretion in the stomach." }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 7,
+    "Disease": "Lumbar Disc Herniation",
+    "Symptoms": ["Lower back pain", "Leg pain", "Numbness or tingling", "Muscle weakness", "Difficulty walking"],
+    "Treatment": "Physical therapy, pain management, surgical intervention",
+    "Drugs": [
+      { "Name": "Arveles", "Description": "Pain reliever for musculoskeletal conditions." },
+      { "Name": "Muscoril", "Description": "Muscle relaxant for relieving spasms." },
+      { "Name": "Lyrica", "Description": "Treats nerve pain associated with disc issues." }
+    ],
+    "Specialty": "Orthopedics"
+  },
+  {
+    "D": 8,
+    "Disease": "Asthma",
+    "Symptoms": ["Shortness of breath", "Chest tightness", "Wheezing", "Coughing", "Difficulty sleeping due to breathing problems"],
+    "Treatment": "Inhaled corticosteroids, bronchodilators, avoiding triggers",
+    "Drugs": [
+      { "Name": "Ventolin", "Description": "Quick-relief inhaler for asthma attacks." },
+      { "Name": "Seretide", "Description": "Combination inhaler for long-term control." },
+      { "Name": "Singulair", "Description": "Oral medication for allergy-induced asthma." }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 9,
+    "Disease": "Alzheimer's Disease",
+    "Symptoms": ["Memory loss", "Confusion", "Difficulty with familiar tasks", "Language problems", "Mood swings"],
+    "Treatment": "Medications to manage symptoms, cognitive therapy",
+    "Drugs": [
+      { "Name": "Aricept", "Description": "Improves cognitive function in Alzheimer's patients." },
+      { "Name": "Exelon", "Description": "Slows progression of symptoms." },
+      { "Name": "Reminyl", "Description": "Enhances memory and thinking skills." }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 10,
+    "Disease": "Depression",
+    "Symptoms": ["Persistent sadness", "Loss of interest", "Changes in appetite", "Sleep disturbances", "Feelings of worthlessness"],
+    "Treatment": "Psychotherapy, antidepressant medications, lifestyle changes",
+    "Drugs": [
+      { "Name": "Prozac", "Description": "Selective serotonin reuptake inhibitor for mood improvement." },
+      { "Name": "Cymbalta", "Description": "Treats depression and anxiety." },
+      { "Name": "Zoloft", "Description": "Helps restore emotional balance." }
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 11,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": ["Joint pain", "Swelling", "Stiffness", "Fatigue", "Fever"],
+    "Treatment": "Early diagnosis and treatment are crucial. Disease-modifying antirheumatic drugs (DMARDs) are commonly prescribed to slow disease progression. Nonsteroidal anti-inflammatory drugs (NSAIDs) and corticosteroids may be used to manage symptoms. Physical therapy and regular exercise can help maintain joint flexibility.",
+    "Drugs": [
+      { "Name": "Methotrexate", "Description": "A DMARD that slows disease progression." },
+      { "Name": "Prednisone", "Description": "A corticosteroid used to reduce inflammation." },
+      { "Name": "Ibuprofen", "Description": "An NSAID for pain and inflammation relief." }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 12,
+    "Disease": "Chronic Kidney Disease",
+    "Symptoms": ["Fatigue", "Swelling in ankles and feet", "Shortness of breath", "Nausea", "Confusion"],
+    "Treatment": "Managing underlying conditions like diabetes and hypertension is essential. Dietary modifications, including reduced protein and sodium intake, are recommended. Medications to control blood pressure and cholesterol levels are prescribed. In advanced stages, dialysis or kidney transplantation may be necessary.",
+    "Drugs": [
+      { "Name": "Lisinopril", "Description": "An ACE inhibitor to control blood pressure." },
+      { "Name": "Furosemide", "Description": "A diuretic to reduce fluid buildup." },
+      { "Name": "Erythropoietin", "Description": "Stimulates red blood cell production." }
+    ],
+    "Specialty": "Nephrology"
+  },
+  {
+    "D": 13,
+    "Disease": "Peptic Ulcer Disease",
+    "Symptoms": ["Burning stomach pain", "Bloating", "Heartburn", "Nausea", "Vomiting"],
+    "Treatment": "Treatment includes proton pump inhibitors (PPIs) to reduce stomach acid, antibiotics if Helicobacter pylori infection is present, and avoiding NSAIDs, alcohol, and smoking. Dietary changes such as avoiding spicy and acidic foods are also recommended.",
+    "Drugs": [
+      { "Name": "Nexium", "Description": "Proton pump inhibitor that reduces acid production." },
+      { "Name": "Amoxicillin", "Description": "Antibiotic used to treat H. pylori infection." },
+      { "Name": "Maalox", "Description": "Antacid that neutralizes stomach acid." }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 14,
+    "Disease": "Anemia (Iron Deficiency)",
+    "Symptoms": ["Fatigue", "Pale skin", "Shortness of breath", "Dizziness", "Cold hands and feet"],
+    "Treatment": "Treatment involves identifying and managing the cause of iron deficiency. Oral or intravenous iron supplements are prescribed. In cases of chronic blood loss, underlying issues such as ulcers or heavy menstruation must be addressed.",
+    "Drugs": [
+      { "Name": "Ferrosanol", "Description": "Oral iron supplement to treat iron deficiency." },
+      { "Name": "Ferrum Hausmann", "Description": "Used for moderate to severe iron deficiency." },
+      { "Name": "Venofer", "Description": "IV iron therapy for rapid correction." }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 15,
+    "Disease": "Migraine",
+    "Symptoms": ["Throbbing headache", "Nausea", "Sensitivity to light and sound", "Aura", "Visual disturbances"],
+    "Treatment": "Acute attacks are managed with triptans, NSAIDs, or antiemetics. Preventive treatments include beta-blockers, antiepileptic drugs, and lifestyle modifications such as stress management and avoiding triggers like caffeine and bright lights.",
+    "Drugs": [
+      { "Name": "Imigran", "Description": "Triptan used for acute migraine relief." },
+      { "Name": "Naproxen", "Description": "NSAID for reducing headache inflammation." },
+      { "Name": "Topamax", "Description": "Preventive medication to reduce frequency of attacks." }
+    ],
+    "Specialty": "Neurology"
+  }
+]
+        
