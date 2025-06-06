@@ -1,0 +1,391 @@
+[
+  {
+    "D": 16,
+    "Disease": "Urinary Tract Infection (UTI)",
+    "Symptoms": [
+      "Burning sensation during urination",
+      "Frequent urination",
+      "Cloudy urine",
+      "Lower abdominal pain",
+      "Fever"
+    ],
+    "Treatment": "Treated with antibiotics based on urine culture results. Drinking plenty of water and practicing proper hygiene help prevent recurrence. In recurrent cases, low-dose antibiotics may be prescribed as prophylaxis.",
+    "Drugs": [
+      {
+        "Name": "Monurol",
+        "Description": "Single-dose antibiotic effective for uncomplicated UTI."
+      },
+      {
+        "Name": "Cipro",
+        "Description": "Broad-spectrum antibiotic for UTIs."
+      },
+      {
+        "Name": "Augmentin",
+        "Description": "Effective in both upper and lower UTIs."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 17,
+    "Disease": "Hypothyroidism",
+    "Symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Constipation",
+      "Depression"
+    ],
+    "Treatment": "Daily oral thyroid hormone replacement therapy is the standard treatment. Regular monitoring of thyroid-stimulating hormone (TSH) levels is essential to adjust the dose and ensure proper metabolic function.",
+    "Drugs": [
+      {
+        "Name": "Euthyrox",
+        "Description": "Synthetic thyroid hormone used in long-term therapy."
+      },
+      {
+        "Name": "Levotiron",
+        "Description": "Commonly prescribed levothyroxine preparation."
+      },
+      {
+        "Name": "Tefor",
+        "Description": "Alternative brand for thyroid hormone replacement."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 18,
+    "Disease": "Panic Disorder",
+    "Symptoms": [
+      "Sudden intense fear",
+      "Palpitations",
+      "Sweating",
+      "Chest pain",
+      "Feeling of losing control"
+    ],
+    "Treatment": "Psychotherapy (especially CBT) and medications such as SSRIs and benzodiazepines are commonly used. Education about the disorder and breathing techniques can reduce the frequency and severity of panic attacks.",
+    "Drugs": [
+      {
+        "Name": "Xanax",
+        "Description": "Benzodiazepine used short-term for panic symptoms."
+      },
+      {
+        "Name": "Paxil",
+        "Description": "SSRI that reduces panic attacks over time."
+      },
+      {
+        "Name": "Lustral",
+        "Description": "Often used for panic disorder and depression."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 19,
+    "Disease": "Sinusitis",
+    "Symptoms": [
+      "Facial pain",
+      "Nasal congestion",
+      "Thick nasal discharge",
+      "Loss of smell",
+      "Cough"
+    ],
+    "Treatment": "Saline nasal sprays, decongestants, and in some cases antibiotics are used. Steam inhalation and pain relievers can help relieve symptoms. Chronic cases may require surgery (FESS).",
+    "Drugs": [
+      {
+        "Name": "Otrivine",
+        "Description": "Nasal decongestant spray for quick relief."
+      },
+      {
+        "Name": "Augmentin",
+        "Description": "Antibiotic for bacterial sinus infections."
+      },
+      {
+        "Name": "Dolven",
+        "Description": "Reduces sinus pain and inflammation."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 20,
+    "Disease": "Dengue Fever",
+    "Symptoms": [
+      "High fever",
+      "Severe headaches",
+      "Pain behind the eyes",
+      "Joint and muscle pain",
+      "Skin rash"
+    ],
+    "Treatment": "There is no specific antiviral treatment. Supportive care includes hydration, rest, and the use of pain relievers like paracetamol (not NSAIDs due to bleeding risk). Monitoring for complications such as hemorrhagic fever or shock is critical.",
+    "Drugs": [
+      {
+        "Name": "Paracetamol",
+        "Description": "Pain reliever and fever reducer."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 21,
+    "Disease": "Bronchitis",
+    "Symptoms": [
+      "Cough",
+      "Mucus production",
+      "Fatigue",
+      "Shortness of breath",
+      "Chest discomfort"
+    ],
+    "Treatment": "Rest, hydration, and cough suppressants are the main treatments. If caused by bacteria, antibiotics may be prescribed. Chronic cases require bronchodilators and sometimes steroids.",
+    "Drugs": [
+      {
+        "Name": "Ventolin",
+        "Description": "Bronchodilator used for relief in chronic bronchitis."
+      },
+      {
+        "Name": "Klaritromisin",
+        "Description": "Macrolide antibiotic used for bacterial infections."
+      },
+      {
+        "Name": "Parol",
+        "Description": "Pain reliever and fever reducer."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 22,
+    "Disease": "Anemia",
+    "Symptoms": [
+      "Fatigue",
+      "Pale skin",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Treatment depends on the cause—iron supplements for iron-deficiency anemia, vitamin B12 injections for pernicious anemia, or addressing chronic diseases. Diet rich in iron, folate, and vitamin B12 is recommended.",
+    "Drugs": [
+      {
+        "Name": "Ferrum",
+        "Description": "Iron supplement used in iron deficiency."
+      },
+      {
+        "Name": "Folbiol",
+        "Description": "Folic acid supplement."
+      },
+      {
+        "Name": "B12 Vitamin",
+        "Description": "Used in B12 deficiency anemia."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 23,
+    "Disease": "Osteoarthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Stiffness",
+      "Swelling",
+      "Reduced range of motion"
+    ],
+    "Treatment": "Treatment includes physical therapy, weight management, pain relievers, anti-inflammatory drugs, and in advanced cases, joint replacement surgery.",
+    "Drugs": [
+      {
+        "Name": "Arveles",
+        "Description": "NSAID for reducing inflammation and pain."
+      },
+      {
+        "Name": "Parol",
+        "Description": "Mild pain reliever."
+      },
+      {
+        "Name": "Voltaren",
+        "Description": "Used topically or orally for joint pain relief."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 24,
+    "Disease": "Epilepsy",
+    "Symptoms": [
+      "Seizures",
+      "Loss of consciousness",
+      "Temporary confusion",
+      "Uncontrolled movements"
+    ],
+    "Treatment": "Antiepileptic medications are used to control seizures. In some cases, surgery or a ketogenic diet may be recommended. Regular monitoring and lifestyle modifications are also important.",
+    "Drugs": [
+      {
+        "Name": "Keppra",
+        "Description": "Commonly used antiepileptic drug."
+      },
+      {
+        "Name": "Tegretol",
+        "Description": "Effective for partial and generalized seizures."
+      },
+      {
+        "Name": "Depakin",
+        "Description": "Broad-spectrum anticonvulsant."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 25,
+    "Disease": "Gastritis",
+    "Symptoms": [
+      "Upper abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Loss of appetite",
+      "Bloating"
+    ],
+    "Treatment": "Antacids, proton pump inhibitors, and antibiotics for Helicobacter pylori. Avoiding NSAIDs, alcohol, and spicy foods is essential.",
+    "Drugs": [
+      {
+        "Name": "Nexium",
+        "Description": "Proton pump inhibitor reducing stomach acid."
+      },
+      {
+        "Name": "Majezik",
+        "Description": "Anti-inflammatory; should be used cautiously."
+      },
+      {
+        "Name": "Rennie",
+        "Description": "Antacid for quick relief of gastric discomfort."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 26,
+    "Disease": "Allergic Rhinitis",
+    "Symptoms": [
+      "Sneezing",
+      "Runny nose",
+      "Itchy eyes",
+      "Nasal congestion"
+    ],
+    "Treatment": "Antihistamines, nasal corticosteroids, decongestants, and allergy avoidance. In severe cases, immunotherapy (allergy shots) may be considered.",
+    "Drugs": [
+      {
+        "Name": "Aerius",
+        "Description": "Non-drowsy antihistamine."
+      },
+      {
+        "Name": "Nasonex",
+        "Description": "Nasal steroid spray for inflammation."
+      },
+      {
+        "Name": "Zyrtec",
+        "Description": "Second-generation antihistamine."
+      }
+    ],
+    "Specialty": "Allergology"
+  },
+  {
+    "D": 27,
+    "Disease": "Migraine",
+    "Symptoms": [
+      "Throbbing headache",
+      "Nausea",
+      "Light sensitivity",
+      "Aura"
+    ],
+    "Treatment": "Pain relievers, triptans, anti-nausea medications. Preventive treatments include beta-blockers, antidepressants, and anti-seizure drugs. Identifying and avoiding triggers is key.",
+    "Drugs": [
+      {
+        "Name": "Sumatriptan",
+        "Description": "Triptan class drug for acute migraine relief."
+      },
+      {
+        "Name": "Rizatriptan",
+        "Description": "Fast-acting migraine treatment."
+      },
+      {
+        "Name": "Parol",
+        "Description": "Mild headache relief."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 28,
+    "Disease": "Depression",
+    "Symptoms": [
+      "Persistent sadness",
+      "Loss of interest",
+      "Changes in appetite",
+      "Fatigue",
+      "Difficulty concentrating"
+    ],
+    "Treatment": "Psychotherapy (especially CBT), antidepressant medications, lifestyle changes (exercise, sleep hygiene). Severe cases may require hospitalization or electroconvulsive therapy.",
+    "Drugs": [
+      {
+        "Name": "Prozac",
+        "Description": "SSRI used in moderate to severe depression."
+      },
+      {
+        "Name": "Cipralex",
+        "Description": "Commonly prescribed SSRI."
+      },
+      {
+        "Name": "Lustral",
+        "Description": "Used in depression and anxiety disorders."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 29,
+    "Disease": "Hepatitis B",
+    "Symptoms": [
+      "Fatigue",
+      "Jaundice",
+      "Abdominal pain",
+      "Dark urine",
+      "Nausea"
+    ],
+    "Treatment": "Antiviral medications, liver monitoring, lifestyle changes (no alcohol, healthy diet). Vaccination is key for prevention.",
+    "Drugs": [
+      {
+        "Name": "Tenofovir",
+        "Description": "First-line antiviral therapy for Hepatitis B."
+      },
+      {
+        "Name": "Entecavir",
+        "Description": "Potent antiviral for chronic Hepatitis B."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 30,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Symptoms": [
+      "Chronic cough",
+      "Shortness of breath",
+      "Wheezing",
+      "Fatigue",
+      "Chest tightness"
+    ],
+    "Treatment": "Bronchodilators, corticosteroids, oxygen therapy, smoking cessation. Pulmonary rehabilitation and vaccines are essential for management.",
+    "Drugs": [
+      {
+        "Name": "Spiriva",
+        "Description": "Long-acting bronchodilator for COPD maintenance."
+      },
+      {
+        "Name": "Ventolin",
+        "Description": "Rescue inhaler for sudden symptoms."
+      },
+      {
+        "Name": "Budesonide",
+        "Description": "Inhaled steroid for reducing inflammation."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  }
+]
