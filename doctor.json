@@ -1,0 +1,919 @@
+[
+  {
+    "ID": 1,
+    "Specialty": "Hematology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Onur Yılmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 2,
+    "Specialty": "Internal Medicine",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Mustafa Karaca",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 3,
+    "Specialty": "Urology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Onur Yıldız",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 4,
+    "Specialty": "Hematology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Murat Yıldız",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 5,
+    "Specialty": "Endocrinology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mehmet Öztürk",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 6,
+    "Specialty": "Hematology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Ahmet Kaya",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 7,
+    "Specialty": "Hematology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Murat Yılmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 8,
+    "Specialty": "Cardiology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Onur Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 9,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Ahmet Taş",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 10,
+    "Specialty": "Dermatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Elif Yılmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 11,
+    "Specialty": "Urology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Emine Taş",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 12,
+    "Specialty": "Neurology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mustafa Şahin",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 13,
+    "Specialty": "Internal Medicine",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mustafa Çelik",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 14,
+    "Specialty": "Dermatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Selin Yıldız",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 15,
+    "Specialty": "Gastroenterology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ayşe Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 16,
+    "Specialty": "Internal Medicine",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ayşe Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 17,
+    "Specialty": "Cardiology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ali Kılıç",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 18,
+    "Specialty": "Psychiatry",
+    "City": "Ankara",
+    "DoctorName": "Dr. Selin Şahin",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 19,
+    "Specialty": "Pulmonology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Elif Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 20,
+    "Specialty": "Rheumatology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Cemre Demir",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 21,
+    "Specialty": "Endocrinology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ayşe Demir",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 22,
+    "Specialty": "Urology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Cemre Korkmaz",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 23,
+    "Specialty": "Neurology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Burak Korkmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 24,
+    "Specialty": "Nephrology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mustafa Öztürk",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 25,
+    "Specialty": "Internal Medicine",
+    "City": "Izmir",
+    "DoctorName": "Dr. Fatma Şahin",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 26,
+    "Specialty": "Endocrinology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Mehmet Şahin",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 27,
+    "Specialty": "Cardiology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Elif Karaca",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 28,
+    "Specialty": "Cardiology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Mustafa Kaya",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 29,
+    "Specialty": "Internal Medicine",
+    "City": "Izmir",
+    "DoctorName": "Dr. Murat Taş",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 30,
+    "Specialty": "Neurology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Cemre Kaya",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 31,
+    "Specialty": "Endocrinology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Elif Şahin",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 32,
+    "Specialty": "Dermatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Mehmet Yıldız",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 33,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Fatma Kılıç",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 34,
+    "Specialty": "Internal Medicine",
+    "City": "Ankara",
+    "DoctorName": "Dr. Onur Doğan",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 35,
+    "Specialty": "Pulmonology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Cemre Şahin",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 36,
+    "Specialty": "Infectious Disease",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mustafa Yıldız",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 37,
+    "Specialty": "Nephrology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Fatma Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 38,
+    "Specialty": "Psychiatry",
+    "City": "Ankara",
+    "DoctorName": "Dr. Selda Özkan",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 39,
+    "Specialty": "Nephrology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Serhat Karaca",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 40,
+    "Specialty": "Pulmonology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Fikret Altun",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 41,
+    "Specialty": "Dermatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Yasemin Doğan",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 42,
+    "Specialty": "Urology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Kerem Şen",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 43,
+    "Specialty": "Gastroenterology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Esra Koç",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 44,
+    "Specialty": "Hematology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Emel Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 45,
+    "Specialty": "Endocrinology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Zeynep Şahin",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 46,
+    "Specialty": "Cardiology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Burak Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 47,
+    "Specialty": "Neurology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Onur Kara",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 48,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Seda Taş",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 49,
+    "Specialty": "Psychiatry",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Hande Yılmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 50,
+    "Specialty": "Nephrology",
+    "City": "Ankara",
+    "DoctorName": "Dr. İsmail Demir",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 51,
+    "Specialty": "Pulmonology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Ece Kılıç",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 52,
+    "Specialty": "Dermatology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Gamze Öz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 53,
+    "Specialty": "Urology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Tolga Yılmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 54,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Büşra Arslan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 55,
+    "Specialty": "Hematology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Eda Kaya",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 56,
+    "Specialty": "Endocrinology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Cemre Yıldız",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 57,
+    "Specialty": "Cardiology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Kaan Öztürk",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 58,
+    "Specialty": "Neurology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Tuğçe Doğan",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 59,
+    "Specialty": "Rheumatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Onur Polat",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 60,
+    "Specialty": "Psychiatry",
+    "City": "Izmir",
+    "DoctorName": "Dr. Meltem Arslan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 61,
+    "Specialty": "Nephrology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Selçuk Demirtaş",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 62,
+    "Specialty": "Pulmonology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Betül Yılmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 63,
+    "Specialty": "Dermatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Hülya Şen",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 64,
+    "Specialty": "Urology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Barış Aksoy",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 65,
+    "Specialty": "Gastroenterology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Dilan Acar",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 66,
+    "Specialty": "Hematology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Selin Demir",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 67,
+    "Specialty": "Endocrinology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Pelin Yıldırım",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 68,
+    "Specialty": "Cardiology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Volkan Şahin",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 69,
+    "Specialty": "Neurology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Esin Kara",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 70,
+    "Specialty": "Dermatology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Cemre Karaca",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 70,
+    "Specialty": "Gastroenterology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Murat Yıldız",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 71,
+    "Specialty": "Rheumatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ali Yıldız",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 71,
+    "Specialty": "Rheumatology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Mehmet Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 72,
+    "Specialty": "Hematology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Emine Çelik",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 72,
+    "Specialty": "Endocrinology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Zeynep Kılıç",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 73,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mehmet Aydın",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 73,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Elif Taş",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 74,
+    "Specialty": "Internal Medicine",
+    "City": "Izmir",
+    "DoctorName": "Dr. Selin Yılmaz",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 74,
+    "Specialty": "Pulmonology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ali Koç",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 75,
+    "Specialty": "Urology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Elif Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 75,
+    "Specialty": "Psychiatry",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Selin Korkmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 76,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Fatma Aydın",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 76,
+    "Specialty": "Endocrinology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Cemre Demir",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 77,
+    "Specialty": "Cardiology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Elif Arslan",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 77,
+    "Specialty": "Psychiatry",
+    "City": "Izmir",
+    "DoctorName": "Dr. Onur Doğan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 78,
+    "Specialty": "Cardiology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ali Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 78,
+    "Specialty": "Neurology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Zeynep Kaya",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 79,
+    "Specialty": "Psychiatry",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ahmet Şahin",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 79,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mehmet Kaya",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 80,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Onur Arslan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 80,
+    "Specialty": "Urology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Zeynep Çelik",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 81,
+    "Specialty": "Nephrology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Elif Demir",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 81,
+    "Specialty": "Cardiology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Seda Kaya",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 82,
+    "Specialty": "Internal Medicine",
+    "City": "Izmir",
+    "DoctorName": "Dr. Cemre Koç",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 82,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Zeynep Arslan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 83,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Elif Çelik",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 83,
+    "Specialty": "Gastroenterology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ayşe Arslan",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 84,
+    "Specialty": "Pulmonology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Seda Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 84,
+    "Specialty": "Internal Medicine",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Emine Korkmaz",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 85,
+    "Specialty": "Neurology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Cemre Kılıç",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 85,
+    "Specialty": "Neurology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Cemre Kaya",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 86,
+    "Specialty": "Urology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Mehmet Çelik",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 86,
+    "Specialty": "Urology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Cemre Kılıç",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 87,
+    "Specialty": "Endocrinology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Zeynep Kılıç",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 87,
+    "Specialty": "Pulmonology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Elif Koç",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 88,
+    "Specialty": "Pulmonology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Selin Kaya",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 88,
+    "Specialty": "Neurology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Emine Demir",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 89,
+    "Specialty": "Internal Medicine",
+    "City": "Ankara",
+    "DoctorName": "Dr. Zeynep Kaya",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 89,
+    "Specialty": "Hematology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Murat Doğan",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 90,
+    "Specialty": "Endocrinology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ali Şahin",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 90,
+    "Specialty": "Dermatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Burak Şahin",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 91,
+    "Specialty": "Cardiology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Onur Karaca",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 91,
+    "Specialty": "Neurology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Onur Demir",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 92,
+    "Specialty": "Neurology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Ali Yılmaz",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 92,
+    "Specialty": "Gastroenterology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Elif Koç",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 93,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Emine Demir",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 93,
+    "Specialty": "Urology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Seda Arslan",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 94,
+    "Specialty": "Nephrology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Mustafa Demir",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 94,
+    "Specialty": "Pulmonology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Elif Karaca",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 95,
+    "Specialty": "Dermatology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Ayşe Karaca",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 95,
+    "Specialty": "Nephrology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Fatma Aydın",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 96,
+    "Specialty": "Internal Medicine",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Burak Şahin",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 96,
+    "Specialty": "Nephrology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Onur Demir",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 97,
+    "Specialty": "Rheumatology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Zeynep Doğan",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 97,
+    "Specialty": "Infectious Disease",
+    "City": "Ankara",
+    "DoctorName": "Dr. Selin Öztürk",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 98,
+    "Specialty": "Neurology",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Emine Yıldız",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 98,
+    "Specialty": "Endocrinology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Fatma Korkmaz",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  },
+  {
+    "ID": 99,
+    "Specialty": "Internal Medicine",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Ali Karaca",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 99,
+    "Specialty": "Psychiatry",
+    "City": "Istanbul",
+    "DoctorName": "Dr. Mehmet Öztürk",
+    "HospitalName": "Istanbul Şehir Hastanesi"
+  },
+  {
+    "ID": 100,
+    "Specialty": "Gastroenterology",
+    "City": "Izmir",
+    "DoctorName": "Dr. Burak Öztürk",
+    "HospitalName": "Izmir Şehir Hastanesi"
+  },
+  {
+    "ID": 100,
+    "Specialty": "Endocrinology",
+    "City": "Ankara",
+    "DoctorName": "Dr. Seda Karaca",
+    "HospitalName": "Ankara Şehir Hastanesi"
+  }
+]
