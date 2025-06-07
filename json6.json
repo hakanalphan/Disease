@@ -1,0 +1,297 @@
+[
+  {
+    "D": 56,
+    "Disease": "Cystitis (Bladder Infection)",
+    "Symptoms": [
+      "Burning sensation during urination",
+      "Frequent urge to urinate",
+      "Cloudy or strong-smelling urine",
+      "Lower abdominal discomfort",
+      "Mild fever"
+    ],
+    "Treatment": "Mild cases can be treated with increased fluid intake and pain relief. Antibiotics are used when bacterial infection is confirmed. Cranberry supplements may help prevent recurrence.",
+    "Drugs": [
+      {
+        "Name": "Monurol",
+        "Description": "Single-dose antibiotic for bladder infections."
+      },
+      {
+        "Name": "Uropyrin",
+        "Description": "Pain relief for urinary discomfort."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 57,
+    "Disease": "Chickenpox",
+    "Symptoms": [
+      "Itchy rash",
+      "Fever",
+      "Fatigue",
+      "Loss of appetite",
+      "Red spots that turn into blisters"
+    ],
+    "Treatment": "Usually resolves on its own with supportive care. Itching can be managed with antihistamines and calamine lotion. Fever can be treated with pain relievers. It’s important to avoid scratching to prevent scars.",
+    "Drugs": [
+      {
+        "Name": "Paracetamol",
+        "Description": "Lowers fever and relieves discomfort."
+      },
+      {
+        "Name": "Fenistil Gel",
+        "Description": "Soothes itching and irritation."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 58,
+    "Disease": "Lactose Intolerance",
+    "Symptoms": [
+      "Bloating",
+      "Diarrhea",
+      "Gas",
+      "Stomach cramps",
+      "Nausea after dairy consumption"
+    ],
+    "Treatment": "Avoiding dairy or using lactose-free products is key. Lactase enzyme tablets may allow for consumption of small amounts of dairy. Calcium supplements are sometimes needed to prevent deficiency.",
+    "Drugs": [
+      {
+        "Name": "Lactaid",
+        "Description": "Lactase enzyme supplement to help digest lactose."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 59,
+    "Disease": "Osteoarthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Stiffness",
+      "Reduced flexibility",
+      "Swelling",
+      "Joint clicking sounds"
+    ],
+    "Treatment": "Treatment includes regular physical activity, weight management, and joint-friendly exercises. Pain relievers and joint injections can help in advanced cases. Physical therapy and assistive devices can improve mobility.",
+    "Drugs": [
+      {
+        "Name": "Artril",
+        "Description": "Pain reliever for joint discomfort."
+      },
+      {
+        "Name": "Theraflex",
+        "Description": "Supports cartilage health."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 60,
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      "Red patches of skin",
+      "Silvery scales",
+      "Dry, cracked skin",
+      "Itching",
+      "Thickened nails"
+    ],
+    "Treatment": "Treatment varies depending on severity. Moisturizers and medicated creams are first-line treatments. In moderate-to-severe cases, light therapy or oral medications may be prescribed. Regular skin care and stress reduction help manage flare-ups.",
+    "Drugs": [
+      {
+        "Name": "Daivobet",
+        "Description": "Topical treatment for plaques."
+      },
+      {
+        "Name": "Psoderm",
+        "Description": "Corticosteroid cream to reduce inflammation."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 61,
+    "Disease": "Bronchitis",
+    "Symptoms": [
+      "Persistent cough",
+      "Mucus production",
+      "Fatigue",
+      "Shortness of breath",
+      "Mild fever"
+    ],
+    "Treatment": "Bronchitis treatment focuses on relieving symptoms. Rest and increased fluid intake help the body fight the infection. Cough suppressants may be used at night to ease sleep, but coughing is important to clear mucus. Avoid smoking or irritants. In bacterial cases, antibiotics might be prescribed.",
+    "Drugs": [
+      {
+        "Name": "Mucosolvan",
+        "Description": "Helps to loosen and clear mucus."
+      },
+      {
+        "Name": "Bisolvon",
+        "Description": "Expectorant to reduce cough."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 62,
+    "Disease": "Gastritis",
+    "Symptoms": [
+      "Upper abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Bloating",
+      "Loss of appetite"
+    ],
+    "Treatment": "Treatment involves avoiding irritants like alcohol, NSAIDs, and spicy foods. Acid-reducing medications help soothe the stomach lining. In cases linked to bacteria (H. pylori), specific antibiotics are necessary. Lifestyle changes including eating smaller, frequent meals improve symptoms.",
+    "Drugs": [
+      {
+        "Name": "Omeprazole",
+        "Description": "Reduces stomach acid production."
+      },
+      {
+        "Name": "Amoxicillin",
+        "Description": "Antibiotic for bacterial infection."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 63,
+    "Disease": "Migraine",
+    "Symptoms": [
+      "Severe headache",
+      "Nausea",
+      "Sensitivity to light and sound",
+      "Visual disturbances",
+      "Vomiting"
+    ],
+    "Treatment": "Migraines can be managed by identifying and avoiding triggers such as certain foods, stress, or irregular sleep. Pain relief medications help during attacks. Preventive medications may be recommended if migraines are frequent. Lifestyle changes and stress management techniques improve quality of life.",
+    "Drugs": [
+      {
+        "Name": "Sumatriptan",
+        "Description": "Relieves migraine headache."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Pain reliever and fever reducer."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 64,
+    "Disease": "Acne Vulgaris",
+    "Symptoms": [
+      "Pimples",
+      "Blackheads",
+      "Whiteheads",
+      "Oily skin",
+      "Scarring"
+    ],
+    "Treatment": "Treatment involves regular gentle cleansing, avoiding oily cosmetics, and using topical medications to reduce bacteria and inflammation. In moderate to severe cases, oral antibiotics or hormonal treatments may be prescribed. Maintaining skin hygiene and avoiding picking are important.",
+    "Drugs": [
+      {
+        "Name": "Benzoyl Peroxide",
+        "Description": "Topical antibacterial agent."
+      },
+      {
+        "Name": "Isotretinoin",
+        "Description": "Oral medication for severe cases."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 65,
+    "Disease": "Urinary Tract Infection (UTI)",
+    "Symptoms": [
+      "Painful urination",
+      "Frequent urge to urinate",
+      "Cloudy urine",
+      "Pelvic pain",
+      "Mild fever"
+    ],
+    "Treatment": "UTIs are treated with a course of antibiotics tailored to the infection type. Drinking plenty of water helps flush the bacteria out. Pain relief medications may be used to ease discomfort. Completing the full course of treatment is important to prevent recurrence.",
+    "Drugs": [
+      {
+        "Name": "Nitrofurantoin",
+        "Description": "Antibiotic for urinary infections."
+      },
+      {
+        "Name": "Fosfomycin",
+        "Description": "Single-dose antibiotic for UTI."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 66,
+    "Disease": "Atopic Dermatitis (Eczema)",
+    "Symptoms": [
+      "Dry, itchy skin",
+      "Redness",
+      "Inflammation",
+      "Cracking skin",
+      "Scaling"
+    ],
+    "Treatment": "Managing eczema involves regular moisturizing, avoiding irritants like harsh soaps, and using topical corticosteroids during flare-ups. Identifying and avoiding triggers such as allergens or stress is key. In severe cases, immunomodulating medications may be prescribed.",
+    "Drugs": [
+      {
+        "Name": "Elidel",
+        "Description": "Topical immune response modifier."
+      },
+      {
+        "Name": "Hydrocortisone cream",
+        "Description": "Reduces inflammation and itching."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 67,
+    "Disease": "Chronic Kidney Disease (CKD)",
+    "Symptoms": [
+      "Fatigue",
+      "Swelling in legs and ankles",
+      "Shortness of breath",
+      "Poor appetite",
+      "Nausea"
+    ],
+    "Treatment": "CKD management focuses on controlling underlying causes such as diabetes and hypertension. Dietary changes, including reducing salt and protein intake, are important. Medications to control blood pressure and anemia are used. In advanced stages, dialysis or kidney transplantation may be required.",
+    "Drugs": [
+      {
+        "Name": "Lisinopril",
+        "Description": "Helps control blood pressure and protect kidneys."
+      },
+      {
+        "Name": "Erythropoietin",
+        "Description": "Treats anemia related to kidney disease."
+      }
+    ],
+    "Specialty": "Nephrology"
+  },
+  {
+    "D": 68,
+    "Disease": "Gout",
+    "Symptoms": [
+      "Sudden severe joint pain",
+      "Swelling",
+      "Redness",
+      "Warmth over affected joint",
+      "Limited joint movement"
+    ],
+    "Treatment": "Gout attacks are managed with anti-inflammatory medications and rest. Lifestyle changes include avoiding foods high in purines like red meat and alcohol. Long-term treatment focuses on lowering uric acid levels with medication to prevent attacks and joint damage.",
+    "Drugs": [
+      {
+        "Name": "Colchicine",
+        "Description": "Reduces inflammation during attacks."
+      },
+      {
+        "Name": "Allopurinol",
+        "Description": "Lowers uric acid levels."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  }
+]
