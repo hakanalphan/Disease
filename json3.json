@@ -1,0 +1,272 @@
+[
+  {
+    "D": 31,
+    "Disease": "Irritable Bowel Syndrome (IBS)",
+    "Symptoms": [
+      "Abdominal pain",
+      "Bloating",
+      "Diarrhea or constipation",
+      "Cramping",
+      "Gas"
+    ],
+    "Treatment": "IBS management includes dietary changes such as a low FODMAP diet, increasing fiber for constipation-predominant IBS, and avoiding trigger foods. Stress reduction techniques like mindfulness or cognitive-behavioral therapy can help. Medications may include antispasmodics or drugs targeting bowel movement regulation.",
+    "Drugs": [
+      {
+        "Name": "Duspatalin",
+        "Description": "Antispasmodic for relieving bowel cramps."
+      },
+      {
+        "Name": "Enterogermina",
+        "Description": "Probiotic to support gut flora."
+      },
+      {
+        "Name": "Colpermin",
+        "Description": "Peppermint oil capsule for IBS symptoms."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 32,
+    "Disease": "Osteoarthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Stiffness",
+      "Swelling",
+      "Reduced flexibility",
+      "Joint grating sensation"
+    ],
+    "Treatment": "Treatment includes weight management, physical therapy, and assistive devices. Pain is managed with analgesics and topical or oral anti-inflammatories. In advanced cases, intra-articular injections or joint replacement surgery may be required.",
+    "Drugs": [
+      {
+        "Name": "Voltaren Emulgel",
+        "Description": "Topical NSAID for joint pain."
+      },
+      {
+        "Name": "Dolgit",
+        "Description": "Anti-inflammatory cream for musculoskeletal pain."
+      },
+      {
+        "Name": "Move Free",
+        "Description": "Supplement for joint health support."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 33,
+    "Disease": "Migraine",
+    "Symptoms": [
+      "Throbbing headache",
+      "Nausea",
+      "Light sensitivity",
+      "Aura",
+      "Vomiting"
+    ],
+    "Treatment": "Acute attacks are managed with triptans, NSAIDs, and anti-nausea medications. Preventive treatments include beta blockers, anticonvulsants, and CGRP inhibitors. Lifestyle changes such as regular sleep and avoiding triggers are crucial.",
+    "Drugs": [
+      {
+        "Name": "Zomig",
+        "Description": "Used to relieve acute migraine attacks."
+      },
+      {
+        "Name": "Avmigran",
+        "Description": "Combination treatment for migraine relief."
+      },
+      {
+        "Name": "Migraleve",
+        "Description": "Migraine-specific analgesic with anti-nausea component."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 34,
+    "Disease": "Conjunctivitis",
+    "Symptoms": [
+      "Red eyes",
+      "Itchy eyes",
+      "Watery or purulent discharge",
+      "Swollen eyelids",
+      "Gritty sensation"
+    ],
+    "Treatment": "Treatment depends on the cause: viral forms are self-limiting and require only supportive care, bacterial conjunctivitis is treated with antibiotic eye drops, and allergic types benefit from antihistamines and avoiding allergens.",
+    "Drugs": [
+      {
+        "Name": "Tobrased",
+        "Description": "Antibiotic eye drops for bacterial infections."
+      },
+      {
+        "Name": "Allergo-Comod",
+        "Description": "Eye drops for allergic conjunctivitis."
+      },
+      {
+        "Name": "Refresh Tears",
+        "Description": "Lubricating drops for symptom relief."
+      }
+    ],
+    "Specialty": "Ophthalmology"
+  },
+  {
+    "D": 35,
+    "Disease": "Peptic Ulcer",
+    "Symptoms": [
+      "Burning stomach pain",
+      "Bloating",
+      "Nausea",
+      "Heartburn",
+      "Dark stools"
+    ],
+    "Treatment": "Eradication of Helicobacter pylori using combination antibiotic therapy is the main approach. Proton pump inhibitors are used for acid suppression. Lifestyle modifications include avoiding NSAIDs, alcohol, and spicy foods.",
+    "Drugs": [
+      {
+        "Name": "Nolpaza",
+        "Description": "Proton pump inhibitor for ulcer healing."
+      },
+      {
+        "Name": "Flagyl",
+        "Description": "Used in H. pylori eradication regimens."
+      },
+      {
+        "Name": "Ulcuran",
+        "Description": "H2 receptor blocker for acid control."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 36,
+    "Disease": "Benign Prostatic Hyperplasia (BPH)",
+    "Symptoms": [
+      "Frequent urination",
+      "Nocturia",
+      "Weak urine stream",
+      "Incomplete bladder emptying",
+      "Urgency"
+    ],
+    "Treatment": "First-line therapy includes alpha-blockers and 5-alpha-reductase inhibitors to relax prostate muscles and reduce its size. Minimally invasive procedures or surgery (TURP) may be necessary for severe symptoms.",
+    "Drugs": [
+      {
+        "Name": "Xatral",
+        "Description": "Alpha-blocker that relaxes bladder neck muscles."
+      },
+      {
+        "Name": "Proscar",
+        "Description": "Reduces prostate size and improves symptoms."
+      },
+      {
+        "Name": "Uroxatral",
+        "Description": "Used to treat urinary problems in men."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 37,
+    "Disease": "Sinusitis",
+    "Symptoms": [
+      "Facial pain or pressure",
+      "Nasal congestion",
+      "Thick nasal discharge",
+      "Loss of smell",
+      "Cough"
+    ],
+    "Treatment": "Saline nasal irrigation and decongestants are first-line. Antibiotics are reserved for bacterial infections. Chronic sinusitis may require corticosteroid sprays or surgical intervention such as functional endoscopic sinus surgery (FESS).",
+    "Drugs": [
+      {
+        "Name": "Nasonex",
+        "Description": "Corticosteroid spray to reduce nasal inflammation."
+      },
+      {
+        "Name": "Rhinocort",
+        "Description": "Nasal spray for allergy-related sinus symptoms."
+      },
+      {
+        "Name": "Augmentin",
+        "Description": "Antibiotic used in bacterial sinusitis."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 38,
+    "Disease": "Cystitis (Urinary Tract Infection)",
+    "Symptoms": [
+      "Burning during urination",
+      "Frequent urge to urinate",
+      "Cloudy urine",
+      "Pelvic pain",
+      "Fever (in complicated cases)"
+    ],
+    "Treatment": "Uncomplicated UTIs are usually treated with a short course of oral antibiotics. Drinking plenty of fluids helps flush out bacteria. For recurrent cases, longer treatments or prophylactic antibiotics may be used.",
+    "Drugs": [
+      {
+        "Name": "Monurol",
+        "Description": "Single-dose treatment for uncomplicated UTI."
+      },
+      {
+        "Name": "Urocare",
+        "Description": "Urinary antiseptic for infection control."
+      },
+      {
+        "Name": "Hiprex",
+        "Description": "Used for prevention of recurrent UTIs."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 39,
+    "Disease": "Seborrheic Dermatitis",
+    "Symptoms": [
+      "Scaly patches",
+      "Red skin",
+      "Dandruff",
+      "Itchy scalp",
+      "Greasy appearance"
+    ],
+    "Treatment": "Medicated shampoos containing antifungals or corticosteroids are the main treatment. In facial or body involvement, topical antifungal creams are used. Maintenance therapy helps prevent relapse.",
+    "Drugs": [
+      {
+        "Name": "Ketoral",
+        "Description": "Antifungal shampoo to reduce scalp inflammation."
+      },
+      {
+        "Name": "Sebiprox",
+        "Description": "Medicated shampoo for seborrheic dermatitis."
+      },
+      {
+        "Name": "Travocort",
+        "Description": "Combination cream with antifungal and anti-inflammatory action."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 40,
+    "Disease": "Gallstones (Cholelithiasis)",
+    "Symptoms": [
+      "Right upper abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Bloating",
+      "Pain after fatty meals"
+    ],
+    "Treatment": "Asymptomatic gallstones may not need treatment. Symptomatic cases are typically treated with laparoscopic cholecystectomy. Non-surgical patients may use bile acid medications to dissolve stones, but recurrence is common.",
+    "Drugs": [
+      {
+        "Name": "Ursofalk",
+        "Description": "Used to dissolve certain types of gallstones."
+      },
+      {
+        "Name": "Buscopan",
+        "Description": "Relieves abdominal cramps and colicky pain."
+      },
+      {
+        "Name": "Debridat",
+        "Description": "Improves bile flow and digestive symptoms."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  }
+]
