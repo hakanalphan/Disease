@@ -1,0 +1,143 @@
+[
+  {
+    "D": 69,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": ["Joint pain", "Swelling", "Morning stiffness", "Fatigue", "Joint deformities"],
+    "Treatment": "Early treatment is crucial to prevent joint damage. Disease-modifying medications slow progression. Physical therapy maintains joint function. Pain management includes anti-inflammatory drugs and lifestyle adjustments. Regular monitoring is needed.",
+    "Drugs": [
+      {"Name": "Methotrexate", "Description": "Slows disease progression."},
+      {"Name": "NSAIDs", "Description": "Relieve pain and inflammation."}
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 70,
+    "Disease": "Allergic Rhinitis",
+    "Symptoms": ["Sneezing", "Runny nose", "Nasal congestion", "Itchy eyes", "Watery eyes"],
+    "Treatment": "Avoidance of allergens is the first step. Antihistamines relieve symptoms, and nasal corticosteroids reduce inflammation. Saline nasal sprays can help clear nasal passages. In persistent cases, allergy shots (immunotherapy) may be recommended.",
+    "Drugs": [
+      {"Name": "Loratadine", "Description": "Non-drowsy antihistamine."},
+      {"Name": "Fluticasone nasal spray", "Description": "Reduces nasal inflammation."}
+    ],
+    "Specialty": "Allergy and Immunology"
+  },
+  {
+    "D": 71,
+    "Disease": "Depression",
+    "Symptoms": ["Persistent sadness", "Loss of interest", "Fatigue", "Sleep disturbances", "Difficulty concentrating"],
+    "Treatment": "Treatment combines medication and psychotherapy. Antidepressants help balance brain chemicals, while cognitive-behavioral therapy supports coping skills. Lifestyle changes, social support, and regular exercise improve outcomes. Close follow-up is important to adjust therapy.",
+    "Drugs": [
+      {"Name": "Sertraline", "Description": "Selective serotonin reuptake inhibitor (SSRI)."},
+      {"Name": "Fluoxetine", "Description": "Antidepressant to improve mood."}
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 72,
+    "Disease": "Type 1 Diabetes Mellitus",
+    "Symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Unintended weight loss", "Blurred vision"],
+    "Treatment": "Lifelong insulin therapy is required to control blood sugar. Patients learn to monitor glucose levels, adjust insulin doses, and manage diet and physical activity. Regular medical follow-ups help prevent complications. Education and support are vital for management.",
+    "Drugs": [
+      {"Name": "Insulin", "Description": "Replaces missing insulin in the body."}
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 73,
+    "Disease": "Otitis Media (Middle Ear Infection)",
+    "Symptoms": ["Ear pain", "Hearing loss", "Fever", "Irritability (in children)", "Fluid drainage from ear"],
+    "Treatment": "Most cases improve with pain relief and observation. Antibiotics are used if bacterial infection is suspected or symptoms persist. Warm compresses can ease pain. Preventive measures include avoiding smoke and vaccination.",
+    "Drugs": [
+      {"Name": "Amoxicillin", "Description": "Antibiotic for bacterial infections."},
+      {"Name": "Paracetamol", "Description": "Pain and fever relief."}
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 74,
+    "Disease": "Constipation",
+    "Symptoms": ["Infrequent bowel movements", "Hard stools", "Straining during defecation", "Abdominal discomfort", "Feeling of incomplete evacuation"],
+    "Treatment": "Lifestyle changes are primary: increased fiber intake, hydration, and physical activity. Over-the-counter laxatives may be used short term. Addressing underlying causes is important. Regular bowel habits and avoiding delaying defecation help prevent recurrence.",
+    "Drugs": [
+      {"Name": "Lactulose", "Description": "Osmotic laxative to soften stools."},
+      {"Name": "Dulcolax", "Description": "Stimulant laxative for bowel movement."}
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 75,
+    "Disease": "Herpes Simplex Virus Infection",
+    "Symptoms": ["Painful blisters or sores", "Itching or burning sensation", "Flu-like symptoms during initial outbreak", "Recurrent outbreaks", "Redness around lesions"],
+    "Treatment": "Antiviral medications reduce severity and frequency of outbreaks. Keeping the area clean and dry helps healing. Avoiding triggers like stress and illness can reduce flare-ups. Pain relief and topical creams may be used for symptoms.",
+    "Drugs": [
+      {"Name": "Acyclovir", "Description": "Antiviral to control outbreaks."},
+      {"Name": "Valacyclovir", "Description": "Reduces symptoms and recurrence."}
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 76,
+    "Disease": "Cholelithiasis (Gallstones)",
+    "Symptoms": ["Right upper abdominal pain", "Nausea", "Vomiting", "Indigestion", "Pain after fatty meals"],
+    "Treatment": "Pain management and dietary changes (low fat) help reduce symptoms. Surgery (cholecystectomy) is recommended if symptomatic or complicated. In some cases, medications may dissolve stones but are less commonly used. Timely treatment prevents complications like inflammation or infection.",
+    "Drugs": [
+      {"Name": "Analgesics", "Description": "Relieve pain during attacks."}
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 77,
+    "Disease": "Anemia",
+    "Symptoms": ["Fatigue", "Pale skin", "Shortness of breath", "Dizziness", "Cold hands and feet"],
+    "Treatment": "Treatment depends on the cause. Iron deficiency anemia is treated with oral iron supplements and dietary changes. Other types may require vitamin B12 or folic acid supplementation. Severe cases need more specialized treatment. Regular monitoring is important.",
+    "Drugs": [
+      {"Name": "Ferrous sulfate", "Description": "Iron supplement for deficiency."},
+      {"Name": "Vitamin B12", "Description": "Supplement for pernicious anemia."}
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 78,
+    "Disease": "Osteoporosis",
+    "Symptoms": ["Back pain", "Loss of height", "Stooped posture", "Bone fractures", "Reduced bone density"],
+    "Treatment": "Preventive measures include adequate calcium and vitamin D intake, regular weight-bearing exercise, and lifestyle changes like quitting smoking. Medications strengthen bones and reduce fracture risk. Fall prevention strategies are also important.",
+    "Drugs": [
+      {"Name": "Alendronate", "Description": "Strengthens bone and prevents fractures."},
+      {"Name": "Calcium supplements", "Description": "Supports bone health."}
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 79,
+    "Disease": "Tinea Pedis (Athlete’s Foot)",
+    "Symptoms": ["Itching", "Scaling skin", "Redness", "Blisters", "Cracking between toes"],
+    "Treatment": "Treatment includes keeping feet clean and dry, using antifungal creams regularly, and avoiding tight shoes. Severe infections may require oral antifungal medications. Preventive foot hygiene reduces recurrence.",
+    "Drugs": [
+      {"Name": "Terbinafine", "Description": "Topical antifungal cream."},
+      {"Name": "Clotrimazole", "Description": "Treats fungal skin infections."}
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 80,
+    "Disease": "Tonsillitis",
+    "Symptoms": ["Sore throat", "Difficulty swallowing", "Red, swollen tonsils", "Fever", "Swollen lymph nodes"],
+    "Treatment": "Supportive care includes rest, hydration, and pain relievers. If caused by bacteria, antibiotics are prescribed. Gargling warm salt water can soothe symptoms. Frequent infections may require surgical removal of tonsils.",
+    "Drugs": [
+      {"Name": "Penicillin", "Description": "Antibiotic for bacterial tonsillitis."},
+      {"Name": "Paracetamol", "Description": "Pain and fever relief."}
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 81,
+    "Disease": "Sinusitis",
+    "Symptoms": ["Nasal congestion", "Facial pain or pressure", "Headache", "Postnasal drip", "Fever"],
+    "Treatment": "Sinusitis treatment includes nasal decongestants to open nasal passages and reduce swelling. Saline nasal sprays help clean sinuses. Pain relievers ease facial pain and headaches. If symptoms last more than 10 days or worsen, antibiotics may be prescribed for bacterial infection. Hydration and rest are important.",
+    "Drugs": [
+      {"Name": "Pseudoephedrine", "Description": "Nasal decongestant to reduce swelling."},
+      {"Name": "Ibuprofen", "Description": "Pain and inflammation relief."}
+    ],
+    "Specialty": "Otorhinolaryngology"
+  }
+]
