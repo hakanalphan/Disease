@@ -1,0 +1,422 @@
+[
+  {
+    "D": 82,
+    "Disease": "Hyperthyroidism",
+    "Symptoms": [
+      "Weight loss",
+      "Rapid heartbeat",
+      "Sweating",
+      "Nervousness",
+      "Tremors"
+    ],
+    "Treatment": "Treatment focuses on reducing thyroid hormone production with medications or radioactive iodine therapy. Beta blockers help control symptoms like rapid heartbeat and tremors. Surgery may be an option if medications are ineffective. Regular monitoring of thyroid levels is essential.",
+    "Drugs": [
+      {
+        "Name": "Methimazole",
+        "Description": "Reduces thyroid hormone production."
+      },
+      {
+        "Name": "Propranolol",
+        "Description": "Controls rapid heartbeat and tremors."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 83,
+    "Disease": "Parkinson’s Disease",
+    "Symptoms": [
+      "Tremor at rest",
+      "Slow movement",
+      "Muscle stiffness",
+      "Balance problems",
+      "Speech changes"
+    ],
+    "Treatment": "Parkinson’s treatment includes medications that increase dopamine activity to improve movement and reduce symptoms. Physical therapy and exercise help maintain mobility and balance. In some cases, surgical options like deep brain stimulation may be considered. Regular follow-up is important.",
+    "Drugs": [
+      {
+        "Name": "Levodopa",
+        "Description": "Increases dopamine in the brain."
+      },
+      {
+        "Name": "Carbidopa",
+        "Description": "Enhances levodopa effect and reduces side effects."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 84,
+    "Disease": "Benign Prostatic Hyperplasia (BPH)",
+    "Symptoms": [
+      "Frequent urination",
+      "Weak urine stream",
+      "Difficulty starting urination",
+      "Incomplete bladder emptying",
+      "Nocturia"
+    ],
+    "Treatment": "Treatment includes medications that relax prostate muscles or shrink prostate tissue to improve urine flow. Lifestyle changes such as reducing fluid intake before bedtime and avoiding caffeine help. In severe cases, surgical procedures may be necessary.",
+    "Drugs": [
+      {
+        "Name": "Tamsulosin",
+        "Description": "Relaxes muscles in prostate and bladder neck."
+      },
+      {
+        "Name": "Finasteride",
+        "Description": "Reduces prostate size."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 85,
+    "Disease": "Peptic Ulcer Disease",
+    "Symptoms": [
+      "Burning stomach pain",
+      "Bloating",
+      "Heartburn",
+      "Nausea",
+      "Vomiting"
+    ],
+    "Treatment": "Treatment involves medications to reduce stomach acid and protect the lining. Avoidance of irritants like NSAIDs, alcohol, and smoking is important. If H. pylori infection is present, antibiotics are given to eradicate bacteria. Lifestyle adjustments improve healing.",
+    "Drugs": [
+      {
+        "Name": "Omeprazole",
+        "Description": "Proton pump inhibitor to reduce acid."
+      },
+      {
+        "Name": "Clarithromycin",
+        "Description": "Antibiotic for H. pylori."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 86,
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      "Red, scaly patches on skin",
+      "Itching",
+      "Dry, cracked skin",
+      "Nail changes",
+      "Joint pain (in some cases)"
+    ],
+    "Treatment": "Psoriasis treatment includes moisturizing regularly to reduce dryness. Topical steroids and vitamin D analogues reduce inflammation and skin cell buildup. Severe cases may require systemic medications or biologics. Avoiding triggers like stress and infections helps control flare-ups.",
+    "Drugs": [
+      {
+        "Name": "Calcipotriol",
+        "Description": "Vitamin D analogue for skin."
+      },
+      {
+        "Name": "Methotrexate",
+        "Description": "Systemic treatment for severe cases."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 87,
+    "Disease": "Epilepsy",
+    "Symptoms": [
+      "Seizures",
+      "Temporary confusion",
+      "Loss of consciousness",
+      "Staring spells",
+      "Uncontrolled jerking movements"
+    ],
+    "Treatment": "Treatment focuses on preventing seizures with anti-epileptic medications. Patients should avoid known seizure triggers and maintain regular sleep patterns. In refractory cases, surgery or devices like vagus nerve stimulators may be options. Regular follow-up is crucial.",
+    "Drugs": [
+      {
+        "Name": "Carbamazepine",
+        "Description": "Anti-epileptic drug to control seizures."
+      },
+      {
+        "Name": "Valproate",
+        "Description": "Seizure prevention medication."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 88,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Symptoms": [
+      "Chronic cough",
+      "Shortness of breath",
+      "Wheezing",
+      "Chest tightness",
+      "Frequent respiratory infections"
+    ],
+    "Treatment": "COPD management includes quitting smoking, pulmonary rehabilitation, and use of inhalers to open airways. Oxygen therapy may be necessary in advanced disease. Vaccinations prevent infections. Medications reduce symptoms and flare-ups. Lifestyle adjustments improve quality of life.",
+    "Drugs": [
+      {
+        "Name": "Salbutamol inhaler",
+        "Description": "Relieves airway constriction."
+      },
+      {
+        "Name": "Tiotropium",
+        "Description": "Long-acting bronchodilator."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 89,
+    "Disease": "Influenza (Flu)",
+    "Symptoms": [
+      "Fever",
+      "Cough",
+      "Sore throat",
+      "Muscle aches",
+      "Fatigue"
+    ],
+    "Treatment": "Flu treatment focuses on rest, hydration, and symptom relief with pain and fever reducers. Antiviral medications may be prescribed if started early. Vaccination is the best preventive measure. Avoiding close contact helps reduce spread.",
+    "Drugs": [
+      {
+        "Name": "Oseltamivir",
+        "Description": "Antiviral to reduce flu severity."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Fever and pain relief."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 90,
+    "Disease": "Varicose Veins",
+    "Symptoms": [
+      "Visible twisted veins",
+      "Leg heaviness",
+      "Swelling",
+      "Aching pain",
+      "Itching around veins"
+    ],
+    "Treatment": "Treatment includes compression stockings to improve blood flow and reduce swelling. Lifestyle changes like exercise and leg elevation help. In severe cases, procedures like sclerotherapy or vein removal may be performed. Avoid prolonged standing.",
+    "Drugs": [
+      {
+        "Name": "Diosmin",
+        "Description": "Improves vein tone and reduces swelling."
+      }
+    ],
+    "Specialty": "Vascular Surgery"
+  },
+  {
+    "D": 91,
+    "Disease": "Celiac Disease",
+    "Symptoms": [
+      "Diarrhea",
+      "Abdominal pain",
+      "Bloating",
+      "Weight loss",
+      "Fatigue"
+    ],
+    "Treatment": "Strict lifelong gluten-free diet is essential to heal intestinal damage and relieve symptoms. Nutritional supplements may be needed for deficiencies. Regular follow-up monitors diet adherence and symptom improvement.",
+    "Drugs": [],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 92,
+    "Disease": "Multiple Sclerosis",
+    "Symptoms": [
+      "Numbness or weakness",
+      "Tingling sensations",
+      "Vision problems",
+      "Fatigue",
+      "Difficulty walking"
+    ],
+    "Treatment": "Treatment includes medications to modify disease progression and manage symptoms. Physical therapy helps maintain mobility. Early diagnosis and treatment improve outcomes. Relapses may require corticosteroids.",
+    "Drugs": [
+      {
+        "Name": "Interferon beta",
+        "Description": "Slows disease progression."
+      },
+      {
+        "Name": "Glatiramer acetate",
+        "Description": "Modulates immune response."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 93,
+    "Disease": "Hypothyroidism",
+    "Symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Constipation",
+      "Dry skin"
+    ],
+    "Treatment": "Lifelong daily thyroid hormone replacement with levothyroxine normalizes hormone levels and relieves symptoms. Regular monitoring is needed to adjust dose. A healthy diet and exercise help overall wellbeing.",
+    "Drugs": [
+      {
+        "Name": "Levothyroxine",
+        "Description": "Synthetic thyroid hormone."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 94,
+    "Disease": "Cholecystitis",
+    "Symptoms": [
+      "Severe right upper abdominal pain",
+      "Fever",
+      "Nausea",
+      "Vomiting",
+      "Tenderness over abdomen"
+    ],
+    "Treatment": "Treatment involves hospitalization for intravenous fluids, antibiotics, and pain control. Surgery to remove the gallbladder is often necessary. Early treatment prevents complications like infection or rupture.",
+    "Drugs": [
+      {
+        "Name": "Ceftriaxone",
+        "Description": "Broad-spectrum antibiotic."
+      },
+      {
+        "Name": "Metronidazole",
+        "Description": "Used with other antibiotics."
+      }
+    ],
+    "Specialty": "General Surgery"
+  },
+  {
+    "D": 95,
+    "Disease": "Fibromyalgia",
+    "Symptoms": [
+      "Widespread muscle pain",
+      "Fatigue",
+      "Sleep disturbances",
+      "Memory problems",
+      "Mood issues"
+    ],
+    "Treatment": "Treatment includes pain relievers, antidepressants, and lifestyle changes such as regular exercise and stress management. Cognitive behavioral therapy may help cope with symptoms. Sleep hygiene is important for symptom relief.",
+    "Drugs": [
+      {
+        "Name": "Duloxetine",
+        "Description": "Reduces pain and fatigue."
+      },
+      {
+        "Name": "Pregabalin",
+        "Description": "Helps with nerve pain."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 96,
+    "Disease": "Glaucoma",
+    "Symptoms": [
+      "Loss of peripheral vision",
+      "Eye pain",
+      "Redness",
+      "Blurred vision",
+      "Halos around lights"
+    ],
+    "Treatment": "Treatment focuses on lowering eye pressure using eye drops or oral medications. Laser therapy or surgery may be needed to improve fluid drainage. Early detection is crucial to prevent vision loss.",
+    "Drugs": [
+      {
+        "Name": "Latanoprost",
+        "Description": "Increases eye fluid outflow."
+      },
+      {
+        "Name": "Timolol",
+        "Description": "Reduces eye fluid production."
+      }
+    ],
+    "Specialty": "Ophthalmology"
+  },
+  {
+    "D": 97,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Swelling",
+      "Stiffness",
+      "Fatigue",
+      "Fever"
+    ],
+    "Treatment": "Treatment aims to reduce inflammation and prevent joint damage using disease-modifying antirheumatic drugs (DMARDs). Physical therapy maintains joint function. Early aggressive treatment improves outcomes.",
+    "Drugs": [
+      {
+        "Name": "Methotrexate",
+        "Description": "Slows disease progression."
+      },
+      {
+        "Name": "Hydroxychloroquine",
+        "Description": "Reduces inflammation."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 98,
+    "Disease": "Tuberculosis",
+    "Symptoms": [
+      "Persistent cough",
+      "Weight loss",
+      "Night sweats",
+      "Fever",
+      "Fatigue"
+    ],
+    "Treatment": "Treatment requires a combination of antibiotics taken for 6 months or longer. Strict adherence is essential to prevent resistance. Isolation may be necessary during contagious periods. Regular follow-up monitors response.",
+    "Drugs": [
+      {
+        "Name": "Isoniazid",
+        "Description": "Kills tuberculosis bacteria."
+      },
+      {
+        "Name": "Rifampin",
+        "Description": "Bactericidal antibiotic."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 99,
+    "Disease": "Anemia",
+    "Symptoms": [
+      "Fatigue",
+      "Pale skin",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Treatment depends on the cause; iron supplements for iron-deficiency anemia, vitamin B12 shots for pernicious anemia, or treating underlying diseases. Diet rich in iron, folate, and vitamins is important. Severe cases may need transfusions.",
+    "Drugs": [
+      {
+        "Name": "Ferrous sulfate",
+        "Description": "Iron supplement."
+      },
+      {
+        "Name": "Vitamin B12 injection",
+        "Description": "Corrects deficiency."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 100,
+    "Disease": "Depression",
+    "Symptoms": [
+      "Persistent sadness",
+      "Loss of interest",
+      "Fatigue",
+      "Sleep disturbances",
+      "Difficulty concentrating"
+    ],
+    "Treatment": "Treatment includes psychotherapy and antidepressant medications. Lifestyle changes such as regular exercise, healthy diet, and social support improve outcomes. Close monitoring for suicidal thoughts is important.",
+    "Drugs": [
+      {
+        "Name": "Sertraline",
+        "Description": "Selective serotonin reuptake inhibitor (SSRI)."
+      },
+      {
+        "Name": "Fluoxetine",
+        "Description": "Antidepressant SSRI."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  }
+]
