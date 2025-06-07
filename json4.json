@@ -1,0 +1,378 @@
+[
+  {
+    "D": 41,
+    "Disease": "Eczema (Atopic Dermatitis)",
+    "Symptoms": [
+      "Dry, itchy skin",
+      "Red patches",
+      "Skin cracking",
+      "Swelling",
+      "Blisters (in some cases)"
+    ],
+    "Treatment": "Eczema is a chronic skin condition that requires regular skin care. Moisturizing the skin several times a day is essential. Flare-ups are treated with steroid creams to reduce inflammation. Avoiding triggers such as scented soaps, stress, and certain foods can help prevent future outbreaks. In severe cases, oral medications or light therapy may be needed.",
+    "Drugs": [
+      {
+        "Name": "Advantan",
+        "Description": "Anti-inflammatory cream for flare-up control."
+      },
+      {
+        "Name": "CeraVe Moisturizing Cream",
+        "Description": "Intensive moisturizer for daily use."
+      },
+      {
+        "Name": "Elidel",
+        "Description": "Non-steroid cream for long-term inflammation control."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 42,
+    "Disease": "Allergic Rhinitis",
+    "Symptoms": [
+      "Sneezing",
+      "Runny nose",
+      "Nasal congestion",
+      "Itchy eyes",
+      "Postnasal drip"
+    ],
+    "Treatment": "Allergic rhinitis is caused by allergens like pollen, dust, or pet dander. Treatment involves avoiding these triggers and using antihistamine tablets or nasal sprays to relieve symptoms. For persistent symptoms, corticosteroid nasal sprays are used. In some cases, allergen immunotherapy (allergy shots) can offer long-term relief.",
+    "Drugs": [
+      {
+        "Name": "Aerius",
+        "Description": "Antihistamine that relieves sneezing and nasal symptoms."
+      },
+      {
+        "Name": "Nasonex",
+        "Description": "Steroid nasal spray that reduces inflammation."
+      },
+      {
+        "Name": "Otrivine",
+        "Description": "Nasal decongestant for quick relief."
+      }
+    ],
+    "Specialty": "Allergy and Immunology"
+  },
+  {
+    "D": 43,
+    "Disease": "Polycystic Ovary Syndrome (PCOS)",
+    "Symptoms": [
+      "Irregular periods",
+      "Weight gain",
+      "Acne",
+      "Excess facial hair",
+      "Difficulty getting pregnant"
+    ],
+    "Treatment": "PCOS treatment focuses on managing symptoms and improving quality of life. Lifestyle changes like a healthy diet and regular exercise help balance hormones. Birth control pills regulate periods and reduce acne. For women trying to conceive, medications to stimulate ovulation may be prescribed.",
+    "Drugs": [
+      {
+        "Name": "Diane 35",
+        "Description": "Hormonal contraceptive that helps with acne and period regulation."
+      },
+      {
+        "Name": "Glucophage",
+        "Description": "Used to improve insulin sensitivity and hormonal balance."
+      },
+      {
+        "Name": "Clomid",
+        "Description": "Used to stimulate ovulation for fertility treatment."
+      }
+    ],
+    "Specialty": "Gynecology"
+  },
+  {
+    "D": 44,
+    "Disease": "Herniated Disc (Slipped Disc)",
+    "Symptoms": [
+      "Back pain",
+      "Leg pain (sciatica)",
+      "Tingling in arms or legs",
+      "Muscle weakness",
+      "Limited mobility"
+    ],
+    "Treatment": "Initial treatment includes rest, pain medications, and physical therapy to strengthen back muscles. Avoiding heavy lifting and practicing proper posture is crucial. In some cases, spinal injections or surgery may be necessary if the pain doesn't improve with conservative treatments.",
+    "Drugs": [
+      {
+        "Name": "Muscoril",
+        "Description": "Muscle relaxant for relieving spasms."
+      },
+      {
+        "Name": "Theraflex",
+        "Description": "Joint supplement to support recovery."
+      },
+      {
+        "Name": "Dolorex",
+        "Description": "Pain reliever for musculoskeletal discomfort."
+      }
+    ],
+    "Specialty": "Orthopedics"
+  },
+  {
+    "D": 45,
+    "Disease": "Anemia (Iron-Deficiency)",
+    "Symptoms": [
+      "Fatigue",
+      "Shortness of breath",
+      "Pale skin",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Anemia caused by iron deficiency is treated by increasing iron intake through diet (like red meat and leafy greens) and supplements. It's also important to treat the underlying cause, such as bleeding or poor absorption. Vitamin C may help enhance iron absorption.",
+    "Drugs": [
+      {
+        "Name": "Ferro Sanol",
+        "Description": "Iron supplement to treat deficiency."
+      },
+      {
+        "Name": "Maltofer",
+        "Description": "Gentle iron supplement for daily use."
+      },
+      {
+        "Name": "Ferrum Hausmann",
+        "Description": "Iron syrup often used in pregnancy or children."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 46,
+    "Disease": "Tension Headache",
+    "Symptoms": [
+      "Mild to moderate head pain",
+      "Pressure around the forehead",
+      "Neck and shoulder tightness",
+      "Irritability",
+      "Fatigue"
+    ],
+    "Treatment": "Tension headaches are often related to stress or muscle tension. Regular sleep, relaxation techniques, and proper posture help prevent them. Over-the-counter pain relievers can manage symptoms. For chronic cases, physical therapy and stress management may be required.",
+    "Drugs": [
+      {
+        "Name": "Minoset",
+        "Description": "Pain reliever for headache and body aches."
+      },
+      {
+        "Name": "Nurofen",
+        "Description": "Anti-inflammatory painkiller."
+      },
+      {
+        "Name": "Dolorex",
+        "Description": "Used for tension-related muscle pain."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 47,
+    "Disease": "GERD (Gastroesophageal Reflux Disease)",
+    "Symptoms": [
+      "Heartburn",
+      "Acid regurgitation",
+      "Sore throat",
+      "Chronic cough",
+      "Chest discomfort"
+    ],
+    "Treatment": "GERD occurs when stomach acid flows back into the esophagus. Treatment involves eating smaller meals, avoiding spicy/fatty foods, not lying down after eating, and losing weight if overweight. Acid-reducing medications help relieve symptoms and heal the esophagus.",
+    "Drugs": [
+      {
+        "Name": "Nexium",
+        "Description": "Reduces acid production and relieves heartburn."
+      },
+      {
+        "Name": "Talcid",
+        "Description": "Antacid tablet that neutralizes stomach acid."
+      },
+      {
+        "Name": "Maalox",
+        "Description": "Liquid antacid for quick relief of reflux symptoms."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 48,
+    "Disease": "Tonsillitis",
+    "Symptoms": [
+      "Sore throat",
+      "Swollen tonsils",
+      "Fever",
+      "Difficulty swallowing",
+      "Swollen neck lymph nodes"
+    ],
+    "Treatment": "Tonsillitis is usually viral and clears on its own with rest, fluids, and pain relief. If it's caused by bacteria (such as strep throat), antibiotics may be needed. Recurrent infections might require surgical removal of the tonsils (tonsillectomy).",
+    "Drugs": [
+      {
+        "Name": "Parol",
+        "Description": "Used to reduce pain and fever."
+      },
+      {
+        "Name": "Augmentin",
+        "Description": "Antibiotic used in bacterial tonsillitis."
+      },
+      {
+        "Name": "Strepsils",
+        "Description": "Throat lozenge for sore throat relief."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 49,
+    "Disease": "Astigmatism",
+    "Symptoms": [
+      "Blurred vision",
+      "Eye strain",
+      "Headaches",
+      "Difficulty seeing at night",
+      "Squinting"
+    ],
+    "Treatment": "Astigmatism is a common eye condition that causes blurry vision due to irregular cornea shape. It’s corrected using prescription eyeglasses or contact lenses. In some cases, refractive surgery (like LASIK) may be considered.",
+    "Drugs": [],
+    "Specialty": "Ophthalmology"
+  },
+  {
+    "D": 50,
+    "Disease": "Chronic Fatigue Syndrome (CFS)",
+    "Symptoms": [
+      "Extreme tiredness",
+      "Memory problems",
+      "Unrefreshing sleep",
+      "Muscle pain",
+      "Dizziness"
+    ],
+    "Treatment": "CFS treatment focuses on symptom management. Gentle physical activity, cognitive behavioral therapy, sleep improvement techniques, and stress reduction are recommended. There’s no specific cure, so a holistic, supportive approach is best.",
+    "Drugs": [
+      {
+        "Name": "Lyrica",
+        "Description": "Helps relieve nerve and muscle pain associated with CFS."
+      },
+      {
+        "Name": "Mirtazapine",
+        "Description": "Used to improve sleep in CFS patients."
+      }
+    ],
+    "Specialty": "Internal Medicine"
+  },
+  {
+    "D": 51,
+    "Disease": "Irritable Bowel Syndrome (IBS)",
+    "Symptoms": [
+      "Abdominal pain",
+      "Bloating",
+      "Gas",
+      "Diarrhea",
+      "Constipation"
+    ],
+    "Treatment": "IBS is managed through dietary changes, such as increasing fiber or avoiding trigger foods. Stress management and regular exercise are important. Medications may help control symptoms like diarrhea or constipation, but long-term success often comes from lifestyle adjustments and a personalized diet plan.",
+    "Drugs": [
+      {
+        "Name": "Duspatalin",
+        "Description": "Relieves abdominal cramps and spasms."
+      },
+      {
+        "Name": "Debridat",
+        "Description": "Regulates bowel movement."
+      },
+      {
+        "Name": "Normolyt",
+        "Description": "Electrolyte solution for hydration in diarrhea."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 52,
+    "Disease": "Sinusitis",
+    "Symptoms": [
+      "Facial pain",
+      "Nasal congestion",
+      "Thick nasal discharge",
+      "Loss of smell",
+      "Fever"
+    ],
+    "Treatment": "Treatment includes nasal saline sprays to clear mucus and corticosteroid sprays to reduce inflammation. In bacterial cases, antibiotics may be used. Steam inhalation and rest can ease symptoms. Chronic cases might require ENT evaluation for surgical options.",
+    "Drugs": [
+      {
+        "Name": "Rhinocort",
+        "Description": "Nasal spray that reduces swelling and mucus."
+      },
+      {
+        "Name": "Augmentin",
+        "Description": "Antibiotic used if infection is bacterial."
+      },
+      {
+        "Name": "Otrivine",
+        "Description": "Nasal decongestant for short-term relief."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 53,
+    "Disease": "Hypothyroidism",
+    "Symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Dry skin",
+      "Depression"
+    ],
+    "Treatment": "This condition is treated with daily hormone replacement therapy to normalize thyroid hormone levels. Regular blood tests are required to adjust the dose. Symptoms typically improve within weeks of starting treatment.",
+    "Drugs": [
+      {
+        "Name": "Euthyrox",
+        "Description": "Daily hormone replacement."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 54,
+    "Disease": "Hyperthyroidism",
+    "Symptoms": [
+      "Rapid heartbeat",
+      "Weight loss",
+      "Anxiety",
+      "Sweating",
+      "Tremors"
+    ],
+    "Treatment": "Treatments include medications to reduce thyroid hormone production, radioactive iodine to destroy overactive thyroid tissue, or surgery in some cases. Beta blockers may be used to control symptoms like palpitations.",
+    "Drugs": [
+      {
+        "Name": "Propycil",
+        "Description": "Reduces thyroid hormone levels."
+      },
+      {
+        "Name": "Beloc",
+        "Description": "Controls heart rate and tremors."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 55,
+    "Disease": "Pneumonia",
+    "Symptoms": [
+      "Cough with phlegm",
+      "Fever",
+      "Chest pain",
+      "Shortness of breath",
+      "Fatigue"
+    ],
+    "Treatment": "Pneumonia is treated based on its cause: bacterial types require antibiotics, while viral types usually resolve with rest, hydration, and fever control. In severe cases, hospitalization and oxygen therapy may be necessary.",
+    "Drugs": [
+      {
+        "Name": "Macrol",
+        "Description": "Antibiotic used for respiratory infections."
+      },
+      {
+        "Name": "Parol",
+        "Description": "Pain and fever reducer."
+      },
+      {
+        "Name": "Ventolin",
+        "Description": "Helps open the airways and ease breathing."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  }
+]
