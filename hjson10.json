@@ -1,0 +1,504 @@
+[
+  {
+    "D": 130,
+    "Disease": "Thymoma",
+    "Symptoms": [
+      "Chest pain",
+      "Cough",
+      "Shortness of breath",
+      "Swelling of face or arms",
+      "Muscle weakness"
+    ],
+    "Treatment": "Treatment involves surgical removal of the tumor. Radiation therapy is often used post-surgery. Chemotherapy is reserved for advanced or inoperable cases. Symptom management includes treating associated autoimmune disorders.",
+    "Drugs": [
+      {
+        "Name": "Cisplatin",
+        "Description": "Chemotherapy drug."
+      }
+    ],
+    "Specialty": "Oncology"
+  },
+  {
+    "D": 131,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Symptoms": [
+      "Chronic cough",
+      "Shortness of breath",
+      "Wheezing",
+      "Chest tightness",
+      "Frequent respiratory infections"
+    ],
+    "Treatment": "Treatment focuses on smoking cessation, inhaled bronchodilators to open airways, corticosteroids to reduce inflammation, pulmonary rehabilitation to improve breathing, and oxygen therapy if needed. Preventing infections with vaccines is also important.",
+    "Drugs": [
+      {
+        "Name": "Salbutamol",
+        "Description": "Short-acting bronchodilator to relieve symptoms."
+      },
+      {
+        "Name": "Tiotropium",
+        "Description": "Long-acting bronchodilator for maintenance therapy."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 132,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": [
+      "Joint pain and swelling",
+      "Morning stiffness",
+      "Fatigue",
+      "Loss of joint function",
+      "Low-grade fever"
+    ],
+    "Treatment": "Treatment includes disease-modifying antirheumatic drugs (DMARDs) to slow disease progression, nonsteroidal anti-inflammatory drugs (NSAIDs) to relieve pain, corticosteroids for flare-ups, and physical therapy to maintain joint mobility.",
+    "Drugs": [
+      {
+        "Name": "Methotrexate",
+        "Description": "DMARD to reduce immune system activity."
+      },
+      {
+        "Name": "Sulfasalazine",
+        "Description": "DMARD for joint inflammation."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 133,
+    "Disease": "Chronic Kidney Disease (CKD)",
+    "Symptoms": [
+      "Fatigue",
+      "Swelling in legs and ankles",
+      "Shortness of breath",
+      "Changes in urine output",
+      "High blood pressure"
+    ],
+    "Treatment": "Treatment aims to control blood pressure and blood sugar, reduce proteinuria with ACE inhibitors or ARBs, manage complications like anemia and bone disease, and prepare for dialysis or kidney transplant in advanced stages.",
+    "Drugs": [
+      {
+        "Name": "Lisinopril",
+        "Description": "ACE inhibitor to protect kidney function."
+      },
+      {
+        "Name": "Erythropoietin",
+        "Description": "Used to treat anemia."
+      }
+    ],
+    "Specialty": "Nephrology"
+  },
+  {
+    "D": 134,
+    "Disease": "Type 1 Diabetes Mellitus",
+    "Symptoms": [
+      "Frequent urination",
+      "Extreme thirst",
+      "Unintended weight loss",
+      "Fatigue",
+      "Blurred vision"
+    ],
+    "Treatment": "Treatment requires lifelong insulin therapy through injections or pump. Blood glucose monitoring and dietary management are crucial. Patient education on hypoglycemia recognition and prevention is essential.",
+    "Drugs": [
+      {
+        "Name": "Insulin Glargine",
+        "Description": "Long-acting insulin for basal control."
+      },
+      {
+        "Name": "Insulin Aspart",
+        "Description": "Rapid-acting insulin for meals."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 135,
+    "Disease": "Parkinson’s Disease",
+    "Symptoms": [
+      "Tremor at rest",
+      "Muscle rigidity",
+      "Bradykinesia (slow movements)",
+      "Postural instability",
+      "Speech changes"
+    ],
+    "Treatment": "Treatment focuses on symptom management with dopaminergic medications to improve movement, physical therapy for balance and strength, and occupational therapy for daily activities. Deep brain stimulation is considered in advanced cases.",
+    "Drugs": [
+      {
+        "Name": "Levodopa/Carbidopa",
+        "Description": "Increases dopamine levels to reduce symptoms."
+      },
+      {
+        "Name": "Pramipexole",
+        "Description": "Dopamine agonist to mimic dopamine effects."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 136,
+    "Disease": "Major Depressive Disorder",
+    "Symptoms": [
+      "Persistent sadness",
+      "Loss of interest",
+      "Fatigue",
+      "Sleep disturbances",
+      "Feelings of worthlessness"
+    ],
+    "Treatment": "Treatment involves psychotherapy such as cognitive behavioral therapy, antidepressant medications to balance neurotransmitters, lifestyle changes including regular exercise, and in severe cases, electroconvulsive therapy (ECT). Patient support and follow-up are key.",
+    "Drugs": [
+      {
+        "Name": "Sertraline",
+        "Description": "Selective serotonin reuptake inhibitor (SSRI)."
+      },
+      {
+        "Name": "Bupropion",
+        "Description": "Norepinephrine and dopamine reuptake inhibitor."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 137,
+    "Disease": "Asthma",
+    "Symptoms": [
+      "Wheezing",
+      "Shortness of breath",
+      "Chest tightness",
+      "Coughing, especially at night",
+      "Difficulty breathing during exercise"
+    ],
+    "Treatment": "Treatment includes avoiding triggers, using inhaled corticosteroids to reduce airway inflammation, bronchodilators for symptom relief, and monitoring lung function. Patient education on inhaler technique and action plans is vital.",
+    "Drugs": [
+      {
+        "Name": "Fluticasone",
+        "Description": "Inhaled corticosteroid to reduce inflammation."
+      },
+      {
+        "Name": "Salbutamol",
+        "Description": "Short-acting bronchodilator for relief."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 138,
+    "Disease": "Systemic Lupus Erythematosus (SLE)",
+    "Symptoms": [
+      "Joint pain and swelling",
+      "Skin rash (butterfly rash)",
+      "Fatigue",
+      "Fever",
+      "Kidney involvement"
+    ],
+    "Treatment": "Treatment involves immunosuppressive medications to control immune activity, anti-inflammatory drugs for symptom relief, and regular monitoring of organ function. Patient education about sun protection and infection prevention is important.",
+    "Drugs": [
+      {
+        "Name": "Hydroxychloroquine",
+        "Description": "Disease-modifying agent with immunomodulatory effects."
+      },
+      {
+        "Name": "Prednisone",
+        "Description": "Corticosteroid to reduce inflammation."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 139,
+    "Disease": "Irritable Bowel Syndrome (IBS)",
+    "Symptoms": [
+      "Abdominal pain",
+      "Bloating",
+      "Diarrhea or constipation",
+      "Mucus in stool",
+      "Urgency to defecate"
+    ],
+    "Treatment": "Treatment includes dietary modifications such as increased fiber, stress management techniques, medications to relieve specific symptoms (antispasmodics, laxatives, or anti-diarrheals), and probiotics. Patient education and reassurance are essential.",
+    "Drugs": [
+      {
+        "Name": "Dicyclomine",
+        "Description": "Antispasmodic for abdominal cramps."
+      },
+      {
+        "Name": "Loperamide",
+        "Description": "Anti-diarrheal medication."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 140,
+    "Disease": "Hyperthyroidism",
+    "Symptoms": [
+      "Weight loss",
+      "Rapid heartbeat",
+      "Sweating",
+      "Nervousness",
+      "Tremors"
+    ],
+    "Treatment": "Treatment includes antithyroid medications to reduce hormone production, beta-blockers to control symptoms, radioactive iodine therapy to ablate the thyroid, and surgery in selected cases. Regular monitoring of thyroid function is essential.",
+    "Drugs": [
+      {
+        "Name": "Methimazole",
+        "Description": "Antithyroid drug to reduce hormone synthesis."
+      },
+      {
+        "Name": "Propranolol",
+        "Description": "Beta-blocker to manage symptoms."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 151,
+    "Disease": "Graves' Disease",
+    "Symptoms": [
+      "Enlarged thyroid (goiter)",
+      "Bulging eyes (exophthalmos)",
+      "Weight loss",
+      "Rapid heartbeat",
+      "Nervousness"
+    ],
+    "Treatment": "Treatment includes antithyroid drugs to reduce hormone production, beta-blockers to manage symptoms like rapid heart rate, and sometimes radioactive iodine therapy or surgery to remove part or all of the thyroid gland. Regular monitoring of thyroid function is essential.",
+    "Drugs": [
+      {
+        "Name": "Propylthiouracil",
+        "Description": "Antithyroid medication to inhibit hormone synthesis."
+      },
+      {
+        "Name": "Propranolol",
+        "Description": "Beta-blocker to control heart rate and tremors."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 152,
+    "Disease": "Atrial Fibrillation",
+    "Symptoms": [
+      "Irregular heartbeat",
+      "Palpitations",
+      "Shortness of breath",
+      "Fatigue",
+      "Dizziness"
+    ],
+    "Treatment": "Treatment involves controlling heart rate or rhythm using medications, preventing blood clots with anticoagulants to reduce stroke risk, and in some cases, procedures like electrical cardioversion or ablation. Lifestyle changes and management of underlying conditions are important.",
+    "Drugs": [
+      {
+        "Name": "Warfarin",
+        "Description": "Anticoagulant to prevent blood clots."
+      },
+      {
+        "Name": "Metoprolol",
+        "Description": "Beta-blocker to control heart rate."
+      }
+    ],
+    "Specialty": "Cardiology"
+  },
+  {
+    "D": 153,
+    "Disease": "Multiple Sclerosis",
+    "Symptoms": [
+      "Muscle weakness",
+      "Numbness or tingling",
+      "Vision problems",
+      "Balance issues",
+      "Fatigue"
+    ],
+    "Treatment": "Treatment includes disease-modifying therapies to slow progression, corticosteroids for acute flare-ups, physical therapy to improve mobility, and symptomatic treatments for pain and spasticity. Regular neurological assessments are necessary.",
+    "Drugs": [
+      {
+        "Name": "Interferon beta",
+        "Description": "Modifies immune response to slow disease progression."
+      },
+      {
+        "Name": "Methylprednisolone",
+        "Description": "Corticosteroid for acute relapses."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 154,
+    "Disease": "Iron Deficiency Anemia",
+    "Symptoms": [
+      "Fatigue",
+      "Paleness",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Treatment includes iron supplementation orally or intravenously, identifying and addressing the underlying cause of iron loss such as bleeding, and dietary advice to increase iron-rich food intake. Follow-up blood tests monitor response.",
+    "Drugs": [
+      {
+        "Name": "Ferrous sulfate",
+        "Description": "Oral iron supplement to restore iron levels."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 155,
+    "Disease": "Chronic Heart Failure",
+    "Symptoms": [
+      "Shortness of breath",
+      "Fatigue",
+      "Swelling in legs and ankles",
+      "Rapid or irregular heartbeat",
+      "Persistent cough"
+    ],
+    "Treatment": "Treatment involves lifestyle changes such as salt restriction and fluid management, medications to improve heart function and relieve symptoms (ACE inhibitors, beta-blockers, diuretics), and in some cases, devices like pacemakers. Regular monitoring and patient education are crucial.",
+    "Drugs": [
+      {
+        "Name": "Lisinopril",
+        "Description": "ACE inhibitor to reduce heart workload."
+      },
+      {
+        "Name": "Furosemide",
+        "Description": "Diuretic to reduce fluid overload."
+      }
+    ],
+    "Specialty": "Cardiology"
+  },
+  {
+    "D": 156,
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      "Red, scaly skin patches",
+      "Itching",
+      "Dry, cracked skin",
+      "Thickened nails",
+      "Joint pain (psoriatic arthritis)"
+    ],
+    "Treatment": "Treatment includes topical corticosteroids and vitamin D analogs, phototherapy, systemic medications like methotrexate for severe cases, and biologic agents targeting immune pathways. Moisturizers and avoiding triggers help control symptoms.",
+    "Drugs": [
+      {
+        "Name": "Methotrexate",
+        "Description": "Systemic immunosuppressant for severe psoriasis."
+      },
+      {
+        "Name": "Calcipotriol",
+        "Description": "Topical vitamin D analog to reduce scaling."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 157,
+    "Disease": "Peptic Ulcer Disease",
+    "Symptoms": [
+      "Burning stomach pain",
+      "Bloating",
+      "Heartburn",
+      "Nausea",
+      "Vomiting"
+    ],
+    "Treatment": "Treatment involves eradication of Helicobacter pylori if present using antibiotics, proton pump inhibitors to reduce stomach acid, lifestyle modifications such as avoiding NSAIDs and alcohol, and medications to protect the stomach lining.",
+    "Drugs": [
+      {
+        "Name": "Omeprazole",
+        "Description": "Proton pump inhibitor to reduce acid production."
+      },
+      {
+        "Name": "Amoxicillin",
+        "Description": "Antibiotic to treat H. pylori infection."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 158,
+    "Disease": "Migraine",
+    "Symptoms": [
+      "Severe headache",
+      "Nausea",
+      "Vomiting",
+      "Sensitivity to light and sound",
+      "Visual disturbances (aura)"
+    ],
+    "Treatment": "Treatment includes acute pain relief with NSAIDs or triptans, preventive medications for frequent attacks, lifestyle modifications to avoid triggers, and stress management. Patient education on recognizing prodromal symptoms is important.",
+    "Drugs": [
+      {
+        "Name": "Sumatriptan",
+        "Description": "Triptan to relieve migraine symptoms."
+      },
+      {
+        "Name": "Propranolol",
+        "Description": "Beta-blocker used for migraine prevention."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 159,
+    "Disease": "Osteoarthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Stiffness",
+      "Decreased range of motion",
+      "Swelling",
+      "Joint tenderness"
+    ],
+    "Treatment": "Treatment focuses on pain management with analgesics and NSAIDs, physical therapy, weight management, and in severe cases, joint replacement surgery. Assistive devices can help improve function.",
+    "Drugs": [
+      {
+        "Name": "Ibuprofen",
+        "Description": "NSAID for pain relief."
+      },
+      {
+        "Name": "Acetaminophen",
+        "Description": "Analgesic to reduce pain."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 160,
+    "Disease": "Epilepsy",
+    "Symptoms": [
+      "Recurrent seizures",
+      "Temporary confusion",
+      "Staring spells",
+      "Loss of consciousness",
+      "Muscle spasms"
+    ],
+    "Treatment": "Treatment includes antiepileptic drugs to control seizures, lifestyle modifications to avoid seizure triggers, and in some cases, surgery or neurostimulation devices. Regular neurological follow-up is essential.",
+    "Drugs": [
+      {
+        "Name": "Valproate",
+        "Description": "Broad-spectrum antiepileptic drug."
+      },
+      {
+        "Name": "Lamotrigine",
+        "Description": "Antiepileptic used for seizure control."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 161,
+    "Disease": "Tuberculosis",
+    "Symptoms": [
+      "Persistent cough",
+      "Night sweats",
+      "Weight loss",
+      "Fever",
+      "Fatigue"
+    ],
+    "Treatment": "Treatment requires prolonged antibiotic therapy with multiple drugs to prevent resistance. Directly observed therapy (DOT) is recommended to ensure adherence. Monitoring for drug side effects is necessary.",
+    "Drugs": [
+      {
+        "Name": "Isoniazid",
+        "Description": "First-line anti-TB antibiotic."
+      },
+      {
+        "Name": "Rifampin",
+        "Description": "Antibiotic that kills TB bacteria."
+      },
+      {
+        "Name": "Ethambutol",
+        "Description": "Used in combination to prevent resistance."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  }
+]
