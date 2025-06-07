@@ -1,0 +1,1016 @@
+  {
+    "D": 56,
+    "Disease": "Cystitis (Bladder Infection)",
+    "Symptoms": [
+      "Burning sensation during urination",
+      "Frequent urge to urinate",
+      "Cloudy or strong-smelling urine",
+      "Lower abdominal discomfort",
+      "Mild fever"
+    ],
+    "Treatment": "Mild cases can be treated with increased fluid intake and pain relief. Antibiotics are used when bacterial infection is confirmed. Cranberry supplements may help prevent recurrence.",
+    "Drugs": [
+      {
+        "Name": "Monurol",
+        "Description": "Single-dose antibiotic for bladder infections."
+      },
+      {
+        "Name": "Uropyrin",
+        "Description": "Pain relief for urinary discomfort."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 57,
+    "Disease": "Chickenpox",
+    "Symptoms": [
+      "Itchy rash",
+      "Fever",
+      "Fatigue",
+      "Loss of appetite",
+      "Red spots that turn into blisters"
+    ],
+    "Treatment": "Usually resolves on its own with supportive care. Itching can be managed with antihistamines and calamine lotion. Fever can be treated with pain relievers. It’s important to avoid scratching to prevent scars.",
+    "Drugs": [
+      {
+        "Name": "Paracetamol",
+        "Description": "Lowers fever and relieves discomfort."
+      },
+      {
+        "Name": "Fenistil Gel",
+        "Description": "Soothes itching and irritation."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 58,
+    "Disease": "Lactose Intolerance",
+    "Symptoms": [
+      "Bloating",
+      "Diarrhea",
+      "Gas",
+      "Stomach cramps",
+      "Nausea after dairy consumption"
+    ],
+    "Treatment": "Avoiding dairy or using lactose-free products is key. Lactase enzyme tablets may allow for consumption of small amounts of dairy. Calcium supplements are sometimes needed to prevent deficiency.",
+    "Drugs": [
+      {
+        "Name": "Lactaid",
+        "Description": "Lactase enzyme supplement to help digest lactose."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 59,
+    "Disease": "Osteoarthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Stiffness",
+      "Reduced flexibility",
+      "Swelling",
+      "Joint clicking sounds"
+    ],
+    "Treatment": "Treatment includes regular physical activity, weight management, and joint-friendly exercises. Pain relievers and joint injections can help in advanced cases. Physical therapy and assistive devices can improve mobility.",
+    "Drugs": [
+      {
+        "Name": "Artril",
+        "Description": "Pain reliever for joint discomfort."
+      },
+      {
+        "Name": "Theraflex",
+        "Description": "Supports cartilage health."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 60,
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      "Red patches of skin",
+      "Silvery scales",
+      "Dry, cracked skin",
+      "Itching",
+      "Thickened nails"
+    ],
+    "Treatment": "Treatment varies depending on severity. Moisturizers and medicated creams are first-line treatments. In moderate-to-severe cases, light therapy or oral medications may be prescribed. Regular skin care and stress reduction help manage flare-ups.",
+    "Drugs": [
+      {
+        "Name": "Daivobet",
+        "Description": "Topical treatment for plaques."
+      },
+      {
+        "Name": "Psoderm",
+        "Description": "Corticosteroid cream to reduce inflammation."
+      }
+    ],
+    "Specialty": "Dermatology"
+  }
+]
+
+[
+  {
+    "D": 61,
+    "Disease": "Bronchitis",
+    "Symptoms": [
+      "Persistent cough",
+      "Mucus production",
+      "Fatigue",
+      "Shortness of breath",
+      "Mild fever"
+    ],
+    "Treatment": "Bronchitis treatment focuses on relieving symptoms. Rest and increased fluid intake help the body fight the infection. Cough suppressants may be used at night to ease sleep, but coughing is important to clear mucus. Avoid smoking or irritants. In bacterial cases, antibiotics might be prescribed.",
+    "Drugs": [
+      {
+        "Name": "Mucosolvan",
+        "Description": "Helps to loosen and clear mucus."
+      },
+      {
+        "Name": "Bisolvon",
+        "Description": "Expectorant to reduce cough."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 62,
+    "Disease": "Gastritis",
+    "Symptoms": [
+      "Upper abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Bloating",
+      "Loss of appetite"
+    ],
+    "Treatment": "Treatment involves avoiding irritants like alcohol, NSAIDs, and spicy foods. Acid-reducing medications help soothe the stomach lining. In cases linked to bacteria (H. pylori), specific antibiotics are necessary. Lifestyle changes including eating smaller, frequent meals improve symptoms.",
+    "Drugs": [
+      {
+        "Name": "Omeprazole",
+        "Description": "Reduces stomach acid production."
+      },
+      {
+        "Name": "Amoxicillin",
+        "Description": "Antibiotic for bacterial infection."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 63,
+    "Disease": "Migraine",
+    "Symptoms": [
+      "Severe headache",
+      "Nausea",
+      "Sensitivity to light and sound",
+      "Visual disturbances",
+      "Vomiting"
+    ],
+    "Treatment": "Migraines can be managed by identifying and avoiding triggers such as certain foods, stress, or irregular sleep. Pain relief medications help during attacks. Preventive medications may be recommended if migraines are frequent. Lifestyle changes and stress management techniques improve quality of life.",
+    "Drugs": [
+      {
+        "Name": "Sumatriptan",
+        "Description": "Relieves migraine headache."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Pain reliever and fever reducer."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 64,
+    "Disease": "Acne Vulgaris",
+    "Symptoms": [
+      "Pimples",
+      "Blackheads",
+      "Whiteheads",
+      "Oily skin",
+      "Scarring"
+    ],
+    "Treatment": "Treatment involves regular gentle cleansing, avoiding oily cosmetics, and using topical medications to reduce bacteria and inflammation. In moderate to severe cases, oral antibiotics or hormonal treatments may be prescribed. Maintaining skin hygiene and avoiding picking are important.",
+    "Drugs": [
+      {
+        "Name": "Benzoyl Peroxide",
+        "Description": "Topical antibacterial agent."
+      },
+      {
+        "Name": "Isotretinoin",
+        "Description": "Oral medication for severe cases."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 65,
+    "Disease": "Urinary Tract Infection (UTI)",
+    "Symptoms": [
+      "Painful urination",
+      "Frequent urge to urinate",
+      "Cloudy urine",
+      "Pelvic pain",
+      "Mild fever"
+    ],
+    "Treatment": "UTIs are treated with a course of antibiotics tailored to the infection type. Drinking plenty of water helps flush the bacteria out. Pain relief medications may be used to ease discomfort. Completing the full course of treatment is important to prevent recurrence.",
+    "Drugs": [
+      {
+        "Name": "Nitrofurantoin",
+        "Description": "Antibiotic for urinary infections."
+      },
+      {
+        "Name": "Fosfomycin",
+        "Description": "Single-dose antibiotic for UTI."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 66,
+    "Disease": "Atopic Dermatitis (Eczema)",
+    "Symptoms": [
+      "Dry, itchy skin",
+      "Redness",
+      "Inflammation",
+      "Cracking skin",
+      "Scaling"
+    ],
+    "Treatment": "Managing eczema involves regular moisturizing, avoiding irritants like harsh soaps, and using topical corticosteroids during flare-ups. Identifying and avoiding triggers such as allergens or stress is key. In severe cases, immunomodulating medications may be prescribed.",
+    "Drugs": [
+      {
+        "Name": "Elidel",
+        "Description": "Topical immune response modifier."
+      },
+      {
+        "Name": "Hydrocortisone cream",
+        "Description": "Reduces inflammation and itching."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 67,
+    "Disease": "Chronic Kidney Disease (CKD)",
+    "Symptoms": [
+      "Fatigue",
+      "Swelling in legs and ankles",
+      "Shortness of breath",
+      "Poor appetite",
+      "Nausea"
+    ],
+    "Treatment": "CKD management focuses on controlling underlying causes such as diabetes and hypertension. Dietary changes, including reducing salt and protein intake, are important. Medications to control blood pressure and anemia are used. In advanced stages, dialysis or kidney transplantation may be required.",
+    "Drugs": [
+      {
+        "Name": "Lisinopril",
+        "Description": "Helps control blood pressure and protect kidneys."
+      },
+      {
+        "Name": "Erythropoietin",
+        "Description": "Treats anemia related to kidney disease."
+      }
+    ],
+    "Specialty": "Nephrology"
+  },
+  {
+    "D": 68,
+    "Disease": "Gout",
+    "Symptoms": [
+      "Sudden severe joint pain",
+      "Swelling",
+      "Redness",
+      "Warmth over affected joint",
+      "Limited joint movement"
+    ],
+    "Treatment": "Gout attacks are managed with anti-inflammatory medications and rest. Lifestyle changes include avoiding foods high in purines like red meat and alcohol. Long-term treatment focuses on lowering uric acid levels with medication to prevent attacks and joint damage.",
+    "Drugs": [
+      {
+        "Name": "Colchicine",
+        "Description": "Reduces inflammation during attacks."
+      },
+      {
+        "Name": "Allopurinol",
+        "Description": "Lowers uric acid levels."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 69,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Swelling",
+      "Morning stiffness",
+      "Fatigue",
+      "Joint deformities"
+    ],
+    "Treatment": "Early treatment is crucial to prevent joint damage. Disease-modifying medications slow progression. Physical therapy maintains joint function. Pain management includes anti-inflammatory drugs and lifestyle adjustments. Regular monitoring is needed.",
+    "Drugs": [
+      {
+        "Name": "Methotrexate",
+        "Description": "Slows disease progression."
+      },
+      {
+        "Name": "NSAIDs",
+        "Description": "Relieve pain and inflammation."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 70,
+    "Disease": "Allergic Rhinitis",
+    "Symptoms": [
+      "Sneezing",
+      "Runny nose",
+      "Nasal congestion",
+      "Itchy eyes",
+      "Watery eyes"
+    ],
+    "Treatment": "Avoidance of allergens is the first step. Antihistamines relieve symptoms, and nasal corticosteroids reduce inflammation. Saline nasal sprays can help clear nasal passages. In persistent cases, allergy shots (immunotherapy) may be recommended.",
+    "Drugs": [
+      {
+        "Name": "Loratadine",
+        "Description": "Non-drowsy antihistamine."
+      },
+      {
+        "Name": "Fluticasone nasal spray",
+        "Description": "Reduces nasal inflammation."
+      }
+    ],
+    "Specialty": "Allergy and Immunology"
+  },
+  {
+    "D": 71,
+    "Disease": "Depression",
+    "Symptoms": [
+      "Persistent sadness",
+      "Loss of interest",
+      "Fatigue",
+      "Sleep disturbances",
+      "Difficulty concentrating"
+    ],
+    "Treatment": "Treatment combines medication and psychotherapy. Antidepressants help balance brain chemicals, while cognitive-behavioral therapy supports coping skills. Lifestyle changes, social support, and regular exercise improve outcomes. Close follow-up is important to adjust therapy.",
+    "Drugs": [
+      {
+        "Name": "Sertraline",
+        "Description": "Selective serotonin reuptake inhibitor (SSRI)."
+      },
+      {
+        "Name": "Fluoxetine",
+        "Description": "Antidepressant to improve mood."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  },
+  {
+    "D": 72,
+    "Disease": "Type 1 Diabetes Mellitus",
+    "Symptoms": [
+      "Increased thirst",
+      "Frequent urination",
+      "Fatigue",
+      "Unintended weight loss",
+      "Blurred vision"
+    ],
+    "Treatment": "Lifelong insulin therapy is required to control blood sugar. Patients learn to monitor glucose levels, adjust insulin doses, and manage diet and physical activity. Regular medical follow-ups help prevent complications. Education and support are vital for management.",
+    "Drugs": [
+      {
+        "Name": "Insulin",
+        "Description": "Replaces missing insulin in the body."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 73,
+    "Disease": "Otitis Media (Middle Ear Infection)",
+    "Symptoms": [
+      "Ear pain",
+      "Hearing loss",
+      "Fever",
+      "Irritability (in children)",
+      "Fluid drainage from ear"
+    ],
+    "Treatment": "Most cases improve with pain relief and observation. Antibiotics are used if bacterial infection is suspected or symptoms persist. Warm compresses can ease pain. Preventive measures include avoiding smoke and vaccination.",
+    "Drugs": [
+      {
+        "Name": "Amoxicillin",
+        "Description": "Antibiotic for bacterial infections."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Pain and fever relief."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 74,
+    "Disease": "Constipation",
+    "Symptoms": [
+      "Infrequent bowel movements",
+      "Hard stools",
+      "Straining during defecation",
+      "Abdominal discomfort",
+      "Feeling of incomplete evacuation"
+    ],
+    "Treatment": "Lifestyle changes are primary: increased fiber intake, hydration, and physical activity. Over-the-counter laxatives may be used short term. Addressing underlying causes is important. Regular bowel habits and avoiding delaying defecation help prevent recurrence.",
+    "Drugs": [
+      {
+        "Name": "Lactulose",
+        "Description": "Osmotic laxative to soften stools."
+      },
+      {
+        "Name": "Dulcolax",
+        "Description": "Stimulant laxative for bowel movement."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 75,
+    "Disease": "Herpes Simplex Virus Infection",
+    "Symptoms": [
+      "Painful blisters or sores",
+      "Itching or burning sensation",
+      "Flu-like symptoms during initial outbreak",
+      "Recurrent outbreaks",
+      "Redness around lesions"
+    ],
+    "Treatment": "Antiviral medications reduce severity and frequency of outbreaks. Keeping the area clean and dry helps healing. Avoiding triggers like stress and illness can reduce flare-ups. Pain relief and topical creams may be used for symptoms.",
+    "Drugs": [
+      {
+        "Name": "Acyclovir",
+        "Description": "Antiviral to control outbreaks."
+      },
+      {
+        "Name": "Valacyclovir",
+        "Description": "Reduces symptoms and recurrence."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 76,
+    "Disease": "Cholelithiasis (Gallstones)",
+    "Symptoms": [
+      "Right upper abdominal pain",
+      "Nausea",
+      "Vomiting",
+      "Indigestion",
+      "Pain after fatty meals"
+    ],
+    "Treatment": "Pain management and dietary changes (low fat) help reduce symptoms. Surgery (cholecystectomy) is recommended if symptomatic or complicated. In some cases, medications may dissolve stones but are less commonly used. Timely treatment prevents complications like inflammation or infection.",
+    "Drugs": [
+      {
+        "Name": "Analgesics",
+        "Description": "Relieve pain during attacks."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 77,
+    "Disease": "Anemia",
+    "Symptoms": [
+      "Fatigue",
+      "Pale skin",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Treatment depends on the cause. Iron deficiency anemia is treated with oral iron supplements and dietary changes. Other types may require vitamin B12 or folic acid supplementation. Severe cases need more specialized treatment. Regular monitoring is important.",
+    "Drugs": [
+      {
+        "Name": "Ferrous sulfate",
+        "Description": "Iron supplement for deficiency."
+      },
+      {
+        "Name": "Vitamin B12",
+        "Description": "Supplement for pernicious anemia."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 78,
+    "Disease": "Osteoporosis",
+    "Symptoms": [
+      "Back pain",
+      "Loss of height",
+      "Stooped posture",
+      "Bone fractures",
+      "Reduced bone density"
+    ],
+    "Treatment": "Preventive measures include adequate calcium and vitamin D intake, regular weight-bearing exercise, and lifestyle changes like quitting smoking. Medications strengthen bones and reduce fracture risk. Fall prevention strategies are also important.",
+    "Drugs": [
+      {
+        "Name": "Alendronate",
+        "Description": "Strengthens bone and prevents fractures."
+      },
+      {
+        "Name": "Calcium supplements",
+        "Description": "Supports bone health."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 79,
+    "Disease": "Tinea Pedis (Athlete’s Foot)",
+    "Symptoms": [
+      "Itching",
+      "Scaling skin",
+      "Redness",
+      "Blisters",
+      "Cracking between toes"
+    ],
+    "Treatment": "Treatment includes keeping feet clean and dry, using antifungal creams regularly, and avoiding tight shoes. Severe infections may require oral antifungal medications. Preventive foot hygiene reduces recurrence.",
+    "Drugs": [
+      {
+        "Name": "Terbinafine",
+        "Description": "Topical antifungal cream."
+      },
+      {
+        "Name": "Clotrimazole",
+        "Description": "Treats fungal skin infections."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 80,
+    "Disease": "Tonsillitis",
+    "Symptoms": [
+      "Sore throat",
+      "Difficulty swallowing",
+      "Red, swollen tonsils",
+      "Fever",
+      "Swollen lymph nodes"
+    ],
+    "Treatment": "Supportive care includes rest, hydration, and pain relievers. If caused by bacteria, antibiotics are prescribed. Gargling warm salt water can soothe symptoms. Frequent infections may require surgical removal of tonsils.",
+    "Drugs": [
+      {
+        "Name": "Penicillin",
+        "Description": "Antibiotic for bacterial tonsillitis."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Pain and fever relief."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  }
+]
+
+[
+  {
+    "D": 81,
+    "Disease": "Sinusitis",
+    "Symptoms": [
+      "Nasal congestion",
+      "Facial pain or pressure",
+      "Headache",
+      "Postnasal drip",
+      "Fever"
+    ],
+    "Treatment": "Sinusitis treatment includes nasal decongestants to open nasal passages and reduce swelling. Saline nasal sprays help clean sinuses. Pain relievers ease facial pain and headaches. If symptoms last more than 10 days or worsen, antibiotics may be prescribed for bacterial infection. Hydration and rest are important.",
+    "Drugs": [
+      {
+        "Name": "Pseudoephedrine",
+        "Description": "Nasal decongestant to reduce swelling."
+      },
+      {
+        "Name": "Ibuprofen",
+        "Description": "Pain and inflammation relief."
+      }
+    ],
+    "Specialty": "Otorhinolaryngology"
+  },
+  {
+    "D": 82,
+    "Disease": "Hyperthyroidism",
+    "Symptoms": [
+      "Weight loss",
+      "Rapid heartbeat",
+      "Sweating",
+      "Nervousness",
+      "Tremors"
+    ],
+    "Treatment": "Treatment focuses on reducing thyroid hormone production with medications or radioactive iodine therapy. Beta blockers help control symptoms like rapid heartbeat and tremors. Surgery may be an option if medications are ineffective. Regular monitoring of thyroid levels is essential.",
+    "Drugs": [
+      {
+        "Name": "Methimazole",
+        "Description": "Reduces thyroid hormone production."
+      },
+      {
+        "Name": "Propranolol",
+        "Description": "Controls rapid heartbeat and tremors."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 83,
+    "Disease": "Parkinson’s Disease",
+    "Symptoms": [
+      "Tremor at rest",
+      "Slow movement",
+      "Muscle stiffness",
+      "Balance problems",
+      "Speech changes"
+    ],
+    "Treatment": "Parkinson’s treatment includes medications that increase dopamine activity to improve movement and reduce symptoms. Physical therapy and exercise help maintain mobility and balance. In some cases, surgical options like deep brain stimulation may be considered. Regular follow-up is important.",
+    "Drugs": [
+      {
+        "Name": "Levodopa",
+        "Description": "Increases dopamine in the brain."
+      },
+      {
+        "Name": "Carbidopa",
+        "Description": "Enhances levodopa effect and reduces side effects."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 84,
+    "Disease": "Benign Prostatic Hyperplasia (BPH)",
+    "Symptoms": [
+      "Frequent urination",
+      "Weak urine stream",
+      "Difficulty starting urination",
+      "Incomplete bladder emptying",
+      "Nocturia"
+    ],
+    "Treatment": "Treatment includes medications that relax prostate muscles or shrink prostate tissue to improve urine flow. Lifestyle changes such as reducing fluid intake before bedtime and avoiding caffeine help. In severe cases, surgical procedures may be necessary.",
+    "Drugs": [
+      {
+        "Name": "Tamsulosin",
+        "Description": "Relaxes muscles in prostate and bladder neck."
+      },
+      {
+        "Name": "Finasteride",
+        "Description": "Reduces prostate size."
+      }
+    ],
+    "Specialty": "Urology"
+  },
+  {
+    "D": 85,
+    "Disease": "Peptic Ulcer Disease",
+    "Symptoms": [
+      "Burning stomach pain",
+      "Bloating",
+      "Heartburn",
+      "Nausea",
+      "Vomiting"
+    ],
+    "Treatment": "Treatment involves medications to reduce stomach acid and protect the lining. Avoidance of irritants like NSAIDs, alcohol, and smoking is important. If H. pylori infection is present, antibiotics are given to eradicate bacteria. Lifestyle adjustments improve healing.",
+    "Drugs": [
+      {
+        "Name": "Omeprazole",
+        "Description": "Proton pump inhibitor to reduce acid."
+      },
+      {
+        "Name": "Clarithromycin",
+        "Description": "Antibiotic for H. pylori."
+      }
+    ],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 86,
+    "Disease": "Psoriasis",
+    "Symptoms": [
+      "Red, scaly patches on skin",
+      "Itching",
+      "Dry, cracked skin",
+      "Nail changes",
+      "Joint pain (in some cases)"
+    ],
+    "Treatment": "Psoriasis treatment includes moisturizing regularly to reduce dryness. Topical steroids and vitamin D analogues reduce inflammation and skin cell buildup. Severe cases may require systemic medications or biologics. Avoiding triggers like stress and infections helps control flare-ups.",
+    "Drugs": [
+      {
+        "Name": "Calcipotriol",
+        "Description": "Vitamin D analogue for skin."
+      },
+      {
+        "Name": "Methotrexate",
+        "Description": "Systemic treatment for severe cases."
+      }
+    ],
+    "Specialty": "Dermatology"
+  },
+  {
+    "D": 87,
+    "Disease": "Epilepsy",
+    "Symptoms": [
+      "Seizures",
+      "Temporary confusion",
+      "Loss of consciousness",
+      "Staring spells",
+      "Uncontrolled jerking movements"
+    ],
+    "Treatment": "Treatment focuses on preventing seizures with anti-epileptic medications. Patients should avoid known seizure triggers and maintain regular sleep patterns. In refractory cases, surgery or devices like vagus nerve stimulators may be options. Regular follow-up is crucial.",
+    "Drugs": [
+      {
+        "Name": "Carbamazepine",
+        "Description": "Anti-epileptic drug to control seizures."
+      },
+      {
+        "Name": "Valproate",
+        "Description": "Seizure prevention medication."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 88,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Symptoms": [
+      "Chronic cough",
+      "Shortness of breath",
+      "Wheezing",
+      "Chest tightness",
+      "Frequent respiratory infections"
+    ],
+    "Treatment": "COPD management includes quitting smoking, pulmonary rehabilitation, and use of inhalers to open airways. Oxygen therapy may be necessary in advanced disease. Vaccinations prevent infections. Medications reduce symptoms and flare-ups. Lifestyle adjustments improve quality of life.",
+    "Drugs": [
+      {
+        "Name": "Salbutamol inhaler",
+        "Description": "Relieves airway constriction."
+      },
+      {
+        "Name": "Tiotropium",
+        "Description": "Long-acting bronchodilator."
+      }
+    ],
+    "Specialty": "Pulmonology"
+  },
+  {
+    "D": 89,
+    "Disease": "Influenza (Flu)",
+    "Symptoms": [
+      "Fever",
+      "Cough",
+      "Sore throat",
+      "Muscle aches",
+      "Fatigue"
+    ],
+    "Treatment": "Flu treatment focuses on rest, hydration, and symptom relief with pain and fever reducers. Antiviral medications may be prescribed if started early. Vaccination is the best preventive measure. Avoiding close contact helps reduce spread.",
+    "Drugs": [
+      {
+        "Name": "Oseltamivir",
+        "Description": "Antiviral to reduce flu severity."
+      },
+      {
+        "Name": "Paracetamol",
+        "Description": "Fever and pain relief."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 90,
+    "Disease": "Varicose Veins",
+    "Symptoms": [
+      "Visible twisted veins",
+      "Leg heaviness",
+      "Swelling",
+      "Aching pain",
+      "Itching around veins"
+    ],
+    "Treatment": "Treatment includes compression stockings to improve blood flow and reduce swelling. Lifestyle changes like exercise and leg elevation help. In severe cases, procedures like sclerotherapy or vein removal may be performed. Avoid prolonged standing.",
+    "Drugs": [
+      {
+        "Name": "Diosmin",
+        "Description": "Improves vein tone and reduces swelling."
+      }
+    ],
+    "Specialty": "Vascular Surgery"
+  },
+  {
+    "D": 91,
+    "Disease": "Celiac Disease",
+    "Symptoms": [
+      "Diarrhea",
+      "Abdominal pain",
+      "Bloating",
+      "Weight loss",
+      "Fatigue"
+    ],
+    "Treatment": "Strict lifelong gluten-free diet is essential to heal intestinal damage and relieve symptoms. Nutritional supplements may be needed for deficiencies. Regular follow-up monitors diet adherence and symptom improvement.",
+    "Drugs": [],
+    "Specialty": "Gastroenterology"
+  },
+  {
+    "D": 92,
+    "Disease": "Multiple Sclerosis",
+    "Symptoms": [
+      "Numbness or weakness",
+      "Tingling sensations",
+      "Vision problems",
+      "Fatigue",
+      "Difficulty walking"
+    ],
+    "Treatment": "Treatment includes medications to modify disease progression and manage symptoms. Physical therapy helps maintain mobility. Early diagnosis and treatment improve outcomes. Relapses may require corticosteroids.",
+    "Drugs": [
+      {
+        "Name": "Interferon beta",
+        "Description": "Slows disease progression."
+      },
+      {
+        "Name": "Glatiramer acetate",
+        "Description": "Modulates immune response."
+      }
+    ],
+    "Specialty": "Neurology"
+  },
+  {
+    "D": 93,
+    "Disease": "Hypothyroidism",
+    "Symptoms": [
+      "Fatigue",
+      "Weight gain",
+      "Cold intolerance",
+      "Constipation",
+      "Dry skin"
+    ],
+    "Treatment": "Lifelong daily thyroid hormone replacement with levothyroxine normalizes hormone levels and relieves symptoms. Regular monitoring is needed to adjust dose. A healthy diet and exercise help overall wellbeing.",
+    "Drugs": [
+      {
+        "Name": "Levothyroxine",
+        "Description": "Synthetic thyroid hormone."
+      }
+    ],
+    "Specialty": "Endocrinology"
+  },
+  {
+    "D": 94,
+    "Disease": "Cholecystitis",
+    "Symptoms": [
+      "Severe right upper abdominal pain",
+      "Fever",
+      "Nausea",
+      "Vomiting",
+      "Tenderness over abdomen"
+    ],
+    "Treatment": "Treatment involves hospitalization for intravenous fluids, antibiotics, and pain control. Surgery to remove the gallbladder is often necessary. Early treatment prevents complications like infection or rupture.",
+    "Drugs": [
+      {
+        "Name": "Ceftriaxone",
+        "Description": "Broad-spectrum antibiotic."
+      },
+      {
+        "Name": "Metronidazole",
+        "Description": "Used with other antibiotics."
+      }
+    ],
+    "Specialty": "General Surgery"
+  },
+  {
+    "D": 95,
+    "Disease": "Fibromyalgia",
+    "Symptoms": [
+      "Widespread muscle pain",
+      "Fatigue",
+      "Sleep disturbances",
+      "Memory problems",
+      "Mood issues"
+    ],
+    "Treatment": "Treatment includes pain relievers, antidepressants, and lifestyle changes such as regular exercise and stress management. Cognitive behavioral therapy may help cope with symptoms. Sleep hygiene is important for symptom relief.",
+    "Drugs": [
+      {
+        "Name": "Duloxetine",
+        "Description": "Reduces pain and fatigue."
+      },
+      {
+        "Name": "Pregabalin",
+        "Description": "Helps with nerve pain."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 96,
+    "Disease": "Glaucoma",
+    "Symptoms": [
+      "Loss of peripheral vision",
+      "Eye pain",
+      "Redness",
+      "Blurred vision",
+      "Halos around lights"
+    ],
+    "Treatment": "Treatment focuses on lowering eye pressure using eye drops or oral medications. Laser therapy or surgery may be needed to improve fluid drainage. Early detection is crucial to prevent vision loss.",
+    "Drugs": [
+      {
+        "Name": "Latanoprost",
+        "Description": "Increases eye fluid outflow."
+      },
+      {
+        "Name": "Timolol",
+        "Description": "Reduces eye fluid production."
+      }
+    ],
+    "Specialty": "Ophthalmology"
+  },
+  {
+    "D": 97,
+    "Disease": "Rheumatoid Arthritis",
+    "Symptoms": [
+      "Joint pain",
+      "Swelling",
+      "Stiffness",
+      "Fatigue",
+      "Fever"
+    ],
+    "Treatment": "Treatment aims to reduce inflammation and prevent joint damage using disease-modifying antirheumatic drugs (DMARDs). Physical therapy maintains joint function. Early aggressive treatment improves outcomes.",
+    "Drugs": [
+      {
+        "Name": "Methotrexate",
+        "Description": "Slows disease progression."
+      },
+      {
+        "Name": "Hydroxychloroquine",
+        "Description": "Reduces inflammation."
+      }
+    ],
+    "Specialty": "Rheumatology"
+  },
+  {
+    "D": 98,
+    "Disease": "Tuberculosis",
+    "Symptoms": [
+      "Persistent cough",
+      "Weight loss",
+      "Night sweats",
+      "Fever",
+      "Fatigue"
+    ],
+    "Treatment": "Treatment requires a combination of antibiotics taken for 6 months or longer. Strict adherence is essential to prevent resistance. Isolation may be necessary during contagious periods. Regular follow-up monitors response.",
+    "Drugs": [
+      {
+        "Name": "Isoniazid",
+        "Description": "Kills tuberculosis bacteria."
+      },
+      {
+        "Name": "Rifampin",
+        "Description": "Bactericidal antibiotic."
+      }
+    ],
+    "Specialty": "Infectious Disease"
+  },
+  {
+    "D": 99,
+    "Disease": "Anemia",
+    "Symptoms": [
+      "Fatigue",
+      "Pale skin",
+      "Shortness of breath",
+      "Dizziness",
+      "Cold hands and feet"
+    ],
+    "Treatment": "Treatment depends on the cause; iron supplements for iron-deficiency anemia, vitamin B12 shots for pernicious anemia, or treating underlying diseases. Diet rich in iron, folate, and vitamins is important. Severe cases may need transfusions.",
+    "Drugs": [
+      {
+        "Name": "Ferrous sulfate",
+        "Description": "Iron supplement."
+      },
+      {
+        "Name": "Vitamin B12 injection",
+        "Description": "Corrects deficiency."
+      }
+    ],
+    "Specialty": "Hematology"
+  },
+  {
+    "D": 100,
+    "Disease": "Depression",
+    "Symptoms": [
+      "Persistent sadness",
+      "Loss of interest",
+      "Fatigue",
+      "Sleep disturbances",
+      "Difficulty concentrating"
+    ],
+    "Treatment": "Treatment includes psychotherapy and antidepressant medications. Lifestyle changes such as regular exercise, healthy diet, and social support improve outcomes. Close monitoring for suicidal thoughts is important.",
+    "Drugs": [
+      {
+        "Name": "Sertraline",
+        "Description": "Selective serotonin reuptake inhibitor (SSRI)."
+      },
+      {
+        "Name": "Fluoxetine",
+        "Description": "Antidepressant SSRI."
+      }
+    ],
+    "Specialty": "Psychiatry"
+  }
+]
+
+
+
