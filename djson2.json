@@ -1,0 +1,54 @@
+[
+  {
+    "Disease": "Urinary Tract Infection (UTI)",
+    "Description": "An infection in any part of the urinary system, commonly the bladder and urethra, characterized by burning urination, frequent urges, and abdominal discomfort."
+  },
+  {
+    "Disease": "Hypothyroidism",
+    "Description": "A condition where the thyroid gland doesn't produce enough hormones, leading to slowed metabolism, fatigue, and cold sensitivity."
+  },
+  {
+    "Disease": "Panic Disorder",
+    "Description": "An anxiety disorder causing sudden and repeated episodes of intense fear accompanied by physical symptoms like palpitations and chest pain."
+  },
+  {
+    "Disease": "Sinusitis",
+    "Description": "Inflammation or swelling of the sinuses, often due to infection, resulting in facial pain, nasal congestion, and thick discharge."
+  },
+  {
+    "Disease": "Dengue Fever",
+    "Description": "A mosquito-borne viral infection causing high fever, severe pain, and rash, with potential for dangerous complications like bleeding or shock."
+  },
+  {
+    "Disease": "Bronchitis",
+    "Description": "Inflammation of the bronchial tubes leading to cough, mucus production, and chest discomfort, often triggered by infections or irritants."
+  },
+  {
+    "Disease": "Anemia",
+    "Description": "A condition marked by a deficiency of red blood cells or hemoglobin, causing fatigue, weakness, and pale skin."
+  },
+  {
+    "Disease": "Osteoarthritis",
+    "Description": "A degenerative joint disease where cartilage wears down over time, leading to joint pain, stiffness, and reduced mobility."
+  },
+  {
+    "Disease": "Epilepsy",
+    "Description": "A neurological disorder marked by recurrent seizures due to abnormal brain activity."
+  },
+  {
+    "Disease": "Gastritis",
+    "Description": "Inflammation of the stomach lining, often caused by infection, alcohol, or NSAID use, leading to pain, nausea, and bloating."
+  },
+  {
+    "Disease": "Allergic Rhinitis",
+    "Description": "An allergic reaction causing sneezing, runny nose, and nasal congestion, triggered by allergens like pollen or dust."
+  },
+  {
+    "Disease": "Migraine",
+    "Description": "A neurological condition with intense throbbing headaches, often accompanied by nausea, light sensitivity, and visual disturbances (aura)."
+  },
+  {
+    "Disease": "Depression",
+    "Description": "A mental health disorder characterized by persistent sadness, loss of interest, and physical and emotional problems that impair daily functioning."
+  }
+]
