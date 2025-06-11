@@ -1,0 +1,92 @@
+[
+  {
+    "D": 1,
+    "Disease": "Hypertension",
+    "Description": "A chronic condition where the blood pressure in the arteries is persistently elevated.",
+    ...
+  },
+  {
+    "D": 2,
+    "Disease": "Type 2 Diabetes Mellitus",
+    "Description": "A metabolic disorder characterized by high blood glucose due to insulin resistance or deficiency.",
+    ...
+  },
+  {
+    "D": 3,
+    "Disease": "Ischemic Heart Disease",
+    "Description": "A condition caused by narrowed heart arteries leading to reduced blood flow to the heart.",
+    ...
+  },
+  {
+    "D": 4,
+    "Disease": "Chronic Obstructive Pulmonary Disease (COPD)",
+    "Description": "A group of progressive lung diseases that obstruct airflow and make breathing difficult.",
+    ...
+  },
+  {
+    "D": 5,
+    "Disease": "Breast Cancer",
+    "Description": "A malignant tumor that originates from breast cells.",
+    ...
+  },
+  {
+    "D": 6,
+    "Disease": "Gastroesophageal Reflux Disease (GERD)",
+    "Description": "A digestive disorder where stomach acid frequently flows back into the esophagus.",
+    ...
+  },
+  {
+    "D": 7,
+    "Disease": "Lumbar Disc Herniation",
+    "Description": "A condition where the soft center of a spinal disc in the lower back pushes through a crack in the tougher exterior.",
+    ...
+  },
+  {
+    "D": 8,
+    "Disease": "Asthma",
+    "Description": "A chronic respiratory condition marked by airway inflammation and narrowing, causing breathing difficulty.",
+    ...
+  },
+  {
+    "D": 9,
+    "Disease": "Alzheimer's Disease",
+    "Description": "A progressive neurological disorder that leads to memory loss and cognitive decline.",
+    ...
+  },
+  {
+    "D": 10,
+    "Disease": "Depression",
+    "Description": "A mood disorder causing persistent feelings of sadness and loss of interest.",
+    ...
+  },
+  {
+    "D": 11,
+    "Disease": "Rheumatoid Arthritis",
+    "Description": "An autoimmune disorder that primarily affects joints, causing inflammation and pain.",
+    ...
+  },
+  {
+    "D": 12,
+    "Disease": "Chronic Kidney Disease",
+    "Description": "A long-term condition where the kidneys gradually lose function.",
+    ...
+  },
+  {
+    "D": 13,
+    "Disease": "Peptic Ulcer Disease",
+    "Description": "A condition involving sores or ulcers in the lining of the stomach or duodenum.",
+    ...
+  },
+  {
+    "D": 14,
+    "Disease": "Anemia (Iron Deficiency)",
+    "Description": "A condition in which the blood lacks enough healthy red blood cells due to insufficient iron.",
+    ...
+  },
+  {
+    "D": 15,
+    "Disease": "Migraine",
+    "Description": "A neurological condition characterized by intense, recurring headaches often accompanied by nausea and sensitivity to light or sound.",
+    ...
+  }
+]
